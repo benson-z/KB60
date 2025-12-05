@@ -161,7 +161,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "00ba86ec-44c0-4447-8aa4-3d9a9a15caf2")
-		(at 566.7375 -9.525)
+		(at 169.06875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K8"
 			(at 0 9.5 0)
@@ -518,7 +518,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "083d0cad-d908-4c70-a49b-e40136960560")
-		(at 578.35 114.86)
+		(at 264.31875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K53"
 			(at 0 9.5 0)
@@ -875,7 +875,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "08c3ca89-d2e0-4449-a1cc-1ca3b147eeb2")
-		(at 433.3875 -9.525)
+		(at 35.71875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K1"
 			(at 0 9.5 0)
@@ -1232,7 +1232,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "11af00a6-bf9c-4e77-9912-648d3fc0d112")
-		(at 528.6375 -9.525)
+		(at 130.96875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K6"
 			(at 0 9.5 0)
@@ -1589,7 +1589,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "12aa41a1-2e8c-4d5b-a24c-3a2b188e77a1")
-		(at 578.35 98.29)
+		(at 245.26875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K52"
 			(at 0 9.5 0)
@@ -2255,7 +2255,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1b9492a0-6c1f-42b7-bd68-d2e0090b23ce")
-		(at 578.35 81.72)
+		(at 226.21875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K51"
 			(at 0 9.5 0)
@@ -2612,7 +2612,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1d55270e-88f7-4165-bb63-d5e5fc882e4e")
-		(at 471.4875 -9.525)
+		(at 73.81875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K3"
 			(at 0 9.5 0)
@@ -2969,7 +2969,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1db9abdf-f5d2-49b2-80f6-e4b94f3cd18c")
-		(at 523 164.57)
+		(at 107.15625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K32"
 			(at 0 9.5 0)
@@ -3326,7 +3326,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1e23f902-a991-40dc-82ff-d3e0abf6a03a")
-		(at 578.35 131.43)
+		(at 283.36875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K54"
 			(at 0 9.5 0)
@@ -3683,7 +3683,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1fe41da4-0bf3-4834-8b0e-5baee257a4c3")
-		(at 596.8 148)
+		(at 283.36875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K63"
 			(at 0 9.5 0)
@@ -4040,7 +4040,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1fe504a3-6252-47fa-a978-ef406535f8a0")
-		(at 541.45 164.57)
+		(at 259.55625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K40"
 			(at 0 9.5 0)
@@ -4397,7 +4397,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "20b853c7-7845-4cd3-84e5-e0426b36f081")
-		(at 578.35 48.58)
+		(at 188.11875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K49"
 			(at 0 9.5 0)
@@ -4754,7 +4754,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2233d8bb-e3c1-4174-84ec-f70c39fa1218")
-		(at 578.35 148)
+		(at 302.41875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K55"
 			(at 0 9.5 0)
@@ -5111,7 +5111,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "276f1281-c611-4663-b094-b31f64ffbd92")
-		(at 461.9625 9.525)
+		(at 64.29375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K16"
 			(at 0 9.5 0)
@@ -5468,7 +5468,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2a7a7c69-8ea0-41ca-8c34-a7411dc3b52f")
-		(at 690.5625 -9.525)
+		(at 292.89375 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K14"
 			(at 0 9.5 0)
@@ -5825,7 +5825,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2fa3e5a9-4364-4c7c-b9a7-7bae76372739")
-		(at 600.075 171.45)
+		(at 302.41875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K64"
 			(at 0 9.5 0)
@@ -6182,7 +6182,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3649e50e-a38f-4155-88dc-bc9f5720d7fe")
-		(at 623.8875 -9.525)
+		(at 226.21875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K11"
 			(at 0 9.525 0)
@@ -6539,7 +6539,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "39344e9e-6a6e-47f3-973f-ccd64c71df23")
-		(at 438.15 9.525)
+		(at 40.48125 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K15"
 			(at 0 9.5 0)
@@ -6896,7 +6896,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3c9eac00-708d-4d58-b20c-d5064d759af1")
-		(at 604.8375 -9.525)
+		(at 207.16875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K10"
 			(at 0 9.525 0)
@@ -7253,12 +7253,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3dd5f030-b41e-41c9-b00c-ea7e8e588451")
-		(at 596.8 81.72)
+		(at 154.78125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K59"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "325e7c9b-3b75-41f5-bb44-788a545e1cd2")
+			(uuid "93a4c300-623e-49cb-a406-00c1282491d1")
 			(effects
 				(font
 					(size 1 1)
@@ -7270,7 +7270,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "2d382497-dd91-4919-994e-1c37add46c03")
+			(uuid "a9e33fa1-644b-412a-914e-8034a132a6b8")
 			(effects
 				(font
 					(size 1 1)
@@ -7282,7 +7282,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a2d451b-1acb-4613-91e6-bee04b0b009e")
+			(uuid "d1d4095f-7adc-486b-be71-e3e1c3035c15")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7294,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60d5fd9a-c394-4ea1-9202-b15937469aa4")
+			(uuid "54928d62-00bb-4454-97af-65b4a86df7f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7610,7 +7610,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "40b6c84b-4288-441c-9f75-d644a3cbfe79")
-		(at 671.5125 9.525)
+		(at 273.84375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K27"
 			(at 0 9.5 0)
@@ -7967,7 +7967,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "40dc85d5-a0c6-4f7d-921c-efd63056efc5")
-		(at 559.9 131.43)
+		(at 130.96875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K46"
 			(at 0 9.5 0)
@@ -8324,7 +8324,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "414a84a0-0bf5-4fc5-99a2-143b132de043")
-		(at 509.5875 -9.525)
+		(at 111.91875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K5"
 			(at 0 9.5 0)
@@ -8681,7 +8681,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "473c1479-c784-4679-b982-c32bdbf08277")
-		(at 541.45 65.15)
+		(at 145.25625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K34"
 			(at 0 9.5 0)
@@ -9038,7 +9038,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "4e548748-b49a-40a7-ad05-7d6063e49182")
-		(at 523 148)
+		(at 88.10625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K31"
 			(at 0 9.5 0)
@@ -10013,7 +10013,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "56a9bffa-6471-4a11-beaa-20f601e82d40")
-		(at 490.5375 -9.525)
+		(at 92.86875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K4"
 			(at 0 9.5 0)
@@ -10370,7 +10370,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "5b15ea88-c663-45ac-b1cc-e8affe91c5f7")
-		(at 541.45 114.86)
+		(at 202.40625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K37"
 			(at 0 9.5 0)
@@ -10727,7 +10727,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "5f2a2903-5401-485d-83cc-5eba235524db")
-		(at 585.7875 -9.525)
+		(at 188.11875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K9"
 			(at 0 9.525 0)
@@ -11084,7 +11084,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "6153a575-3d0c-4638-8a86-287d504289c4")
-		(at 614.3625 9.525)
+		(at 216.69375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K24"
 			(at 0 9.5 0)
@@ -11441,7 +11441,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "689defbc-e85e-4dd2-a18a-0c074b86893e")
-		(at 652.4625 9.525)
+		(at 254.79375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K26"
 			(at 0 9.5 0)
@@ -11798,7 +11798,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "70d20b25-aa64-4008-8684-9381b8217bfa")
-		(at 481.0125 9.525)
+		(at 83.34375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K17"
 			(at 0 9.5 0)
@@ -12155,7 +12155,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "73b60dee-0c7d-4c10-8f7e-1c9f4a9b583d")
-		(at 541.45 98.29)
+		(at 183.35625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K36"
 			(at 0 9.5 0)
@@ -12512,7 +12512,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "74f5e450-efc9-44bc-b4b0-fa7af23bca0e")
-		(at 695.325 9.525)
+		(at 297.65625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K28"
 			(at 0 9.5 0)
@@ -12869,7 +12869,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "75a8306c-05e4-4af9-a38d-fe6b2fc5a05d")
-		(at 578.35 164.57)
+		(at 38.1 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K56"
 			(at 0 9.5 0)
@@ -13226,7 +13226,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "76338c0c-47e2-48ca-8cc7-a2353e774aca")
-		(at 578.35 65.15)
+		(at 207.16875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K50"
 			(at 0 9.5 0)
@@ -13583,7 +13583,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "793e83b9-21bf-4270-ad5f-a188edba2fa5")
-		(at 557.2125 9.525)
+		(at 159.54375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K21"
 			(at 0 9.5 0)
@@ -13940,7 +13940,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "79c79109-5565-4850-a6cd-191e3ef8e9e8")
-		(at 452.4375 -9.525)
+		(at 54.76875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K2"
 			(at 0 9.5 0)
@@ -14297,7 +14297,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "852f7bd6-71d9-40f3-bbf5-5e9411358124")
-		(at 466.725 28.575)
+		(at 69.05625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K30"
 			(at 0 9.5 0)
@@ -14654,7 +14654,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "862fdf17-3a70-4dfe-b387-fa510a8bf0ba")
-		(at 547.6875 -9.525)
+		(at 150.01875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K7"
 			(at 0 9.5 0)
@@ -15320,7 +15320,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "901b02dc-5b76-4a67-b855-1a7325c95457")
-		(at 576.2625 9.525)
+		(at 178.59375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K22"
 			(at 0 9.5 0)
@@ -15677,7 +15677,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "910ff2c0-08e8-4032-86ce-8c250516dedc")
-		(at 541.45 148)
+		(at 240.50625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K39"
 			(at 0 9.5 0)
@@ -16034,7 +16034,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "9e187003-997d-46fa-8ba4-616eab514080")
-		(at 596.8 114.86)
+		(at 245.26875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K61"
 			(at 0 9.5 0)
@@ -16391,12 +16391,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a1d6dd5b-666f-48c9-9a46-380c7260459d")
-		(at 596.8 65.15)
+		(at 80.9625 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K58"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "be139c7d-572e-47ea-9614-6805b67aa66f")
+			(uuid "0df77b0d-487c-4dcb-a666-3612437f137e")
 			(effects
 				(font
 					(size 1 1)
@@ -16408,7 +16408,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "a15782b2-c6a9-49fc-955e-bfee8780b0e3")
+			(uuid "2c24a5ef-b3ee-4c28-be11-854b742b60d9")
 			(effects
 				(font
 					(size 1 1)
@@ -16420,7 +16420,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "da2823d0-f1ee-4951-a76a-69dba7c190eb")
+			(uuid "a6bec10f-54c0-4483-8ed7-3d79ccc92f16")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16432,7 +16432,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc164bfd-f06d-4247-b2e3-72f1f1eaaabe")
+			(uuid "30bc3c33-d305-4e55-8d48-5040f520ec8d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16748,7 +16748,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a410b7e6-a877-4c6d-bdb7-3f7a61e15f04")
-		(at 595.3125 9.525)
+		(at 197.64375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K23"
 			(at 0 9.5 0)
@@ -17105,7 +17105,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a78d95ba-5746-4891-adb8-31e4d3462a43")
-		(at 519.1125 9.525)
+		(at 121.44375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K19"
 			(at 0 9.5 0)
@@ -17771,7 +17771,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "aad900b4-a221-4790-9fdd-2d3f0de495bc")
-		(at 559.9 65.15)
+		(at 45.24375 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K42"
 			(at 0 9.5 0)
@@ -18128,7 +18128,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "ac7f317a-f018-45bd-8a8e-7d8c106c73cd")
-		(at 541.45 131.43)
+		(at 221.45625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K38"
 			(at 0 9.5 0)
@@ -18485,7 +18485,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "adab5b2c-f6bf-4fb8-aec4-0abbec6826ed")
-		(at 559.9 81.72)
+		(at 73.81875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K43"
 			(at 0 9.5 0)
@@ -18842,7 +18842,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "af64282c-9dfe-4eb4-a972-90ca18791435")
-		(at 596.8 48.58)
+		(at 59.53125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K57"
 			(at 0 9.5 0)
@@ -19696,7 +19696,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "bff7219a-4a73-40ef-80bf-2275221f2bfd")
-		(at 559.9 98.29)
+		(at 92.86875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K44"
 			(at 0 9.5 0)
@@ -20362,7 +20362,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c0cc7f00-1cac-4562-a5aa-33f5cce80f8a")
-		(at 538.1625 9.525)
+		(at 140.49375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K20"
 			(at 0 9.5 0)
@@ -20719,7 +20719,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c3ed446a-dd31-4407-b8d6-2a9acc982608")
-		(at 642.9375 -9.525)
+		(at 245.26875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K12"
 			(at 0 9.525 0)
@@ -21076,7 +21076,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c6f951ba-c3a5-4575-8973-fd8beec2448c")
-		(at 541.45 81.72)
+		(at 164.30625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K35"
 			(at 0 9.5 0)
@@ -21742,7 +21742,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "d15761d0-c1c0-4813-9a7d-1899bcbe49dd")
-		(at 559.9 114.86)
+		(at 111.91875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K45"
 			(at 0 9.5 0)
@@ -22099,7 +22099,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "d2da8aca-c7d6-44d0-a651-02cb1961c7f3")
-		(at 500.0625 9.525)
+		(at 102.39375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K18"
 			(at 0 9.5 0)
@@ -22456,7 +22456,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "db5f69f1-c211-4596-ab11-45414b9246f9")
-		(at 596.8 131.43)
+		(at 264.31875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K62"
 			(at 0 9.5 0)
@@ -22813,7 +22813,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "dfd47d23-bb6e-4b68-9b99-7ce2fd2daaf0")
-		(at 541.45 48.58)
+		(at 126.20625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K33"
 			(at 0 9.5 0)
@@ -23170,7 +23170,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "e5c85d9d-af21-48c6-80a1-543f69fbac8c")
-		(at 440.53125 28.575)
+		(at 42.8625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K29"
 			(at 0 9.5 0)
@@ -23527,7 +23527,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "e8753afe-0b35-4b29-878e-e8c753317c96")
-		(at 661.9875 -9.525)
+		(at 264.31875 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K13"
 			(at 0 9.525 0)
@@ -23884,7 +23884,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "ecf40980-9c7b-4c02-a4a2-fad5b2dfb068")
-		(at 559.9 148)
+		(at 150.01875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K47"
 			(at 0 9.5 0)
@@ -24241,7 +24241,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f08e86e1-b9c8-4644-92a3-562b75f38978")
-		(at 596.8 98.29)
+		(at 226.21875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K60"
 			(at 0 9.5 0)
@@ -24598,7 +24598,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f4197bd7-8566-4013-9a66-a6a9c6e9dfe2")
-		(at 559.9 48.58)
+		(at 290.5125 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K41"
 			(at 0 9.5 0)
@@ -24955,7 +24955,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f730eff1-8946-44da-8472-ac7bfe14f076")
-		(at 633.4125 9.525)
+		(at 235.74375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K25"
 			(at 0 9.5 0)
@@ -25312,7 +25312,7 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f746f9ec-094c-4061-9f3f-714a267d670b")
-		(at 559.9 164.57)
+		(at 169.06875 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K48"
 			(at 0 9.5 0)
@@ -25665,6 +25665,42 @@
 			(uuid "8100dc64-fe3a-4b4f-93ca-f448d0027b0b")
 		)
 		(embedded_fonts no)
+	)
+	(group ""
+		(uuid "aa5a94b3-d80e-4c0a-909e-d9670db54138")
+		(members "00ba86ec-44c0-4447-8aa4-3d9a9a15caf2" "083d0cad-d908-4c70-a49b-e40136960560"
+			"08c3ca89-d2e0-4449-a1cc-1ca3b147eeb2" "11af00a6-bf9c-4e77-9912-648d3fc0d112"
+			"12aa41a1-2e8c-4d5b-a24c-3a2b188e77a1" "1b9492a0-6c1f-42b7-bd68-d2e0090b23ce"
+			"1d55270e-88f7-4165-bb63-d5e5fc882e4e" "1db9abdf-f5d2-49b2-80f6-e4b94f3cd18c"
+			"1e23f902-a991-40dc-82ff-d3e0abf6a03a" "1fe41da4-0bf3-4834-8b0e-5baee257a4c3"
+			"1fe504a3-6252-47fa-a978-ef406535f8a0" "20b853c7-7845-4cd3-84e5-e0426b36f081"
+			"2233d8bb-e3c1-4174-84ec-f70c39fa1218" "276f1281-c611-4663-b094-b31f64ffbd92"
+			"2a7a7c69-8ea0-41ca-8c34-a7411dc3b52f" "2fa3e5a9-4364-4c7c-b9a7-7bae76372739"
+			"3649e50e-a38f-4155-88dc-bc9f5720d7fe" "39344e9e-6a6e-47f3-973f-ccd64c71df23"
+			"3c9eac00-708d-4d58-b20c-d5064d759af1" "3dd5f030-b41e-41c9-b00c-ea7e8e588451"
+			"40b6c84b-4288-441c-9f75-d644a3cbfe79" "40dc85d5-a0c6-4f7d-921c-efd63056efc5"
+			"414a84a0-0bf5-4fc5-99a2-143b132de043" "473c1479-c784-4679-b982-c32bdbf08277"
+			"4e548748-b49a-40a7-ad05-7d6063e49182" "56a9bffa-6471-4a11-beaa-20f601e82d40"
+			"5b15ea88-c663-45ac-b1cc-e8affe91c5f7" "5f2a2903-5401-485d-83cc-5eba235524db"
+			"6153a575-3d0c-4638-8a86-287d504289c4" "689defbc-e85e-4dd2-a18a-0c074b86893e"
+			"70d20b25-aa64-4008-8684-9381b8217bfa" "73b60dee-0c7d-4c10-8f7e-1c9f4a9b583d"
+			"74f5e450-efc9-44bc-b4b0-fa7af23bca0e" "75a8306c-05e4-4af9-a38d-fe6b2fc5a05d"
+			"76338c0c-47e2-48ca-8cc7-a2353e774aca" "793e83b9-21bf-4270-ad5f-a188edba2fa5"
+			"79c79109-5565-4850-a6cd-191e3ef8e9e8" "852f7bd6-71d9-40f3-bbf5-5e9411358124"
+			"862fdf17-3a70-4dfe-b387-fa510a8bf0ba" "901b02dc-5b76-4a67-b855-1a7325c95457"
+			"910ff2c0-08e8-4032-86ce-8c250516dedc" "9e187003-997d-46fa-8ba4-616eab514080"
+			"a1d6dd5b-666f-48c9-9a46-380c7260459d" "a410b7e6-a877-4c6d-bdb7-3f7a61e15f04"
+			"a78d95ba-5746-4891-adb8-31e4d3462a43" "aad900b4-a221-4790-9fdd-2d3f0de495bc"
+			"ac7f317a-f018-45bd-8a8e-7d8c106c73cd" "adab5b2c-f6bf-4fb8-aec4-0abbec6826ed"
+			"af64282c-9dfe-4eb4-a972-90ca18791435" "bff7219a-4a73-40ef-80bf-2275221f2bfd"
+			"c0cc7f00-1cac-4562-a5aa-33f5cce80f8a" "c3ed446a-dd31-4407-b8d6-2a9acc982608"
+			"c6f951ba-c3a5-4575-8973-fd8beec2448c" "d15761d0-c1c0-4813-9a7d-1899bcbe49dd"
+			"d2da8aca-c7d6-44d0-a651-02cb1961c7f3" "db5f69f1-c211-4596-ab11-45414b9246f9"
+			"dfd47d23-bb6e-4b68-9b99-7ce2fd2daaf0" "e5c85d9d-af21-48c6-80a1-543f69fbac8c"
+			"e8753afe-0b35-4b29-878e-e8c753317c96" "ecf40980-9c7b-4c02-a4a2-fad5b2dfb068"
+			"f08e86e1-b9c8-4644-92a3-562b75f38978" "f4197bd7-8566-4013-9a66-a6a9c6e9dfe2"
+			"f730eff1-8946-44da-8472-ac7bfe14f076" "f746f9ec-094c-4061-9f3f-714a267d670b"
+		)
 	)
 	(embedded_fonts no)
 )
