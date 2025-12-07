@@ -161,12 +161,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "00ba86ec-44c0-4447-8aa4-3d9a9a15caf2")
-		(at 169.06875 40.48125)
+		(at 173.83125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K8"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "910b8563-996d-4180-807f-b4d9ee069d2e")
+			(uuid "d156a5d1-66bd-4abf-9099-7bb6b1e9919b")
 			(effects
 				(font
 					(size 1 1)
@@ -178,7 +178,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "892e14ed-8b81-4ee4-83b0-36193e54dc39")
+			(uuid "f5dc84c1-450c-4288-8d98-83b3fd773297")
 			(effects
 				(font
 					(size 1 1)
@@ -190,7 +190,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b942ced4-31f0-4f25-afce-5e7656ab9e62")
+			(uuid "9b52378d-dbe9-477d-93dc-2c2f4c27194c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -202,7 +202,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fe338aa-810b-4fba-aadd-db91169da05a")
+			(uuid "c3ca5792-5aba-475a-b8c6-74fb388ca8a7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -518,12 +518,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "083d0cad-d908-4c70-a49b-e40136960560")
-		(at 264.31875 97.63125)
+		(at 269.08125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K53"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "6b5ffa6e-a793-45d5-a9a0-b84fa24214fc")
+			(uuid "47d5025a-9715-49df-9000-18590420ef0c")
 			(effects
 				(font
 					(size 1 1)
@@ -535,7 +535,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "8bdd8a2a-3bbb-44c5-a3c4-a4dc54850134")
+			(uuid "26bfad21-576c-4d43-ba5c-07cd8dfbd74c")
 			(effects
 				(font
 					(size 1 1)
@@ -547,7 +547,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04b23918-3e5e-45e9-a763-f662b88655b5")
+			(uuid "b72730b5-c833-4d11-8889-155f7bb98698")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -559,7 +559,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "53969a30-b492-4943-8db5-438f57915375")
+			(uuid "6ddbf3f3-3064-42ee-8356-fc692e60db7d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -875,12 +875,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "08c3ca89-d2e0-4449-a1cc-1ca3b147eeb2")
-		(at 35.71875 40.48125)
+		(at 40.48125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K1"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "50005314-7d34-49ef-a53f-b25b74aad1b7")
+			(uuid "d9acd832-e8b7-4311-bf9f-379755208d16")
 			(effects
 				(font
 					(size 1 1)
@@ -892,7 +892,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d8b95927-1f49-4959-b52e-a035df4844a9")
+			(uuid "6066a286-0e5d-43b6-b541-913980ce79f7")
 			(effects
 				(font
 					(size 1 1)
@@ -904,7 +904,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "039dac41-d723-42ce-8ca8-3d1dcb865b92")
+			(uuid "26fc9500-6ac2-4a25-bc3d-a742a2bdd1cf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -916,7 +916,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "45a71988-0836-44a0-90e2-c953a5435f10")
+			(uuid "e3a74ec7-3fdf-4dea-8ac6-0e4f0a801f05")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1232,12 +1232,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "11af00a6-bf9c-4e77-9912-648d3fc0d112")
-		(at 130.96875 40.48125)
+		(at 135.73125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K6"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "5fe5085c-b10c-4d41-9545-85ab98ecd87b")
+			(uuid "609552db-8f74-4c26-b42e-25ba9a21ae4d")
 			(effects
 				(font
 					(size 1 1)
@@ -1249,7 +1249,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "94e008d4-2953-4adb-8a71-10afb3354a44")
+			(uuid "759255c3-699f-4e36-a342-25474cc86728")
 			(effects
 				(font
 					(size 1 1)
@@ -1261,7 +1261,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5136224-aaae-4d8a-966f-8ca33790d452")
+			(uuid "6cdc3c47-35fc-407f-b142-88438a4e30d5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1273,7 +1273,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67dc6a3d-99ef-4670-b2d0-6b4dda16c853")
+			(uuid "094efc92-4b64-4f63-b0ed-23fdf012d44f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1589,12 +1589,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "12aa41a1-2e8c-4d5b-a24c-3a2b188e77a1")
-		(at 245.26875 97.63125)
+		(at 250.03125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K52"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "ca5e6eb2-7648-4a81-8e41-000345b42a44")
+			(uuid "a1410528-4530-4288-a945-8aea88225b4a")
 			(effects
 				(font
 					(size 1 1)
@@ -1606,7 +1606,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "17036f94-a4b1-4f84-9fce-09a4989ab27e")
+			(uuid "4eaf2ef1-55cb-4cb2-89ce-b234865c7136")
 			(effects
 				(font
 					(size 1 1)
@@ -1618,7 +1618,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bc8835c-8307-4a08-8c5c-acee6d642afd")
+			(uuid "61a49ffd-dd20-4066-94a9-c5a93e7e73f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,7 +1630,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff3673a5-1438-4e4b-9159-07b68302c93f")
+			(uuid "2c199eea-3ce2-4094-94ff-90549888266a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,40 +1943,38 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
+	(footprint "Gateron_KS33_Hotswap:Gateron-KS33-6.25u-Stabilizer-Cutout"
 		(layer "F.Cu")
-		(uuid "13e468c9-b19e-4162-b733-321d160933f3")
-		(at 489.225 184.79)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D4"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "dce3c370-22b3-4405-a449-8f783cca73c0")
+		(uuid "19471a88-c6bb-4655-964d-872d0065e9d6")
+		(at 159.54375 116.68125)
+		(property "Reference" "REF**"
+			(at 0 -3.5 0)
+			(layer "Dwgs.User")
+			(uuid "93d93e8c-0289-4263-8726-1bf2a4c83f40")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "cd9d3d1e-3234-4048-9a1b-30760bca29e3")
+		(property "Value" "6.25U Stabilizer"
+			(at 0 -7.9375 0)
+			(layer "Dwgs.User")
+			(uuid "4318ad6a-19d1-4181-9619-896e674f88ff")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b1b9562-96a4-4b90-b0c6-c09d2f9a171a")
+			(uuid "24f503ae-85ae-4dbf-9ae5-a7df5775174b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1984,12 +1982,12 @@
 				)
 			)
 		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b55dc2cc-3e0e-4fc5-b7b6-928b12cd46d2")
+			(uuid "d539f446-71be-4c9b-952d-985b89ccba28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1997,270 +1995,105 @@
 				)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1cc882ed-18d2-4947-b6fa-c36b08bac420")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8a90c025-bdd9-4a6a-bb99-b68fd988ae93")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/14d18988-a35f-4bc9-8508-d1cce4991511")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
+			(start -59.53125 9.525)
+			(end -59.53125 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "45a45d84-c989-4eb5-97f1-7b7db7d52ab8")
+		)
+		(fp_line
+			(start 59.53125 -9.525)
+			(end -59.53125 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "94aa107d-a4a3-4b89-9158-01b98e0d0604")
+		)
+		(fp_line
+			(start 59.53125 9.525)
+			(end -59.53125 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "b1c996a0-2455-4289-9d78-bf7dd93856f8")
+		)
+		(fp_line
+			(start 59.53125 9.525)
+			(end 59.53125 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "f8dba196-6d31-451c-b72c-3ec30911931f")
+		)
+		(fp_rect
+			(start -46.75 6.2)
+			(end -53.25 -9.8)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
-			(layer "F.SilkS")
-			(uuid "ea212460-9a5d-4566-8615-93f2735e1fe4")
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "26f91fac-50aa-4a1a-9786-e5bf81cd63c4")
 		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
+		(fp_rect
+			(start 46.75 6.2)
+			(end 53.25 -9.8)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
-			(layer "F.SilkS")
-			(uuid "1bc7e5d4-00bc-4ed2-9a75-d575c2fd436b")
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "7d6f40a8-e429-4e68-ac62-44292c0f57fd")
 		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "01867bb3-8531-4752-9ac1-7a5fe5048ea8")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0c68a874-4df0-4522-8107-44eb1aad6e6f")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9ead3854-b5f0-4b9a-aed9-7210e2935fba")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "35107ab9-f31f-425b-a4b0-4951763e4b5c")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5654cc7f-22ac-44a7-a4a1-77f9cfab4500")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "2575965a-4973-40db-afe8-39f86919bff7")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c59c2bf0-d840-4bbb-81ce-b61c0e9f9803")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a86591a8-8ac2-473b-8f20-df0f0cd2bf7b")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b5a1fd8d-7f1e-42b8-8e69-648b4bfe5a3f")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f4a0da2c-fa53-43f1-90ea-fed27ed0cb76")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "60675971-4198-4492-ae64-da70cfd31faa")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d48684f8-6102-40db-a83a-a2eb1a32815a")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "532f49e3-70ef-43e4-b66e-cae5267a28a1")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ae094ea2-772b-4ca4-889e-3617431b7341")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "07bd974b-1196-46dd-aaa2-307a50a59f65")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "49cb615d-480e-4f4b-a46f-42ec34675f9e")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "9351742f-1cfb-4211-9f13-77f5e22f03cd")
+		(fp_text user "Stabilizer Wire"
+			(at 0 9.525 0)
+			(unlocked yes)
+			(layer "Eco1.User")
+			(uuid "0641c373-e8d1-4ea4-8f7b-3959e4e2ae32")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
+				(justify bottom)
 			)
 		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 23 "/COL4")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "2e0d38dc-2f90-4527-9910-72cd32573f82")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 4 "Net-(D4-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "2bc47ef2-d119-473c-9728-6358db3a677e")
-		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+		(model "./Gateron-KS33-Socket.step"
+			(hide yes)
 			(offset
-				(xyz 0 0 0)
+				(xyz 5.025 -7.925 -3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 180)
 			)
 		)
 	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1b9492a0-6c1f-42b7-bd68-d2e0090b23ce")
-		(at 226.21875 97.63125)
+		(at 230.98125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K51"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "d3feb07b-af1d-4357-a643-20562a05123b")
+			(uuid "105a4a84-b78e-47d2-bf2f-a7d8f779148b")
 			(effects
 				(font
 					(size 1 1)
@@ -2272,7 +2105,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d6d31201-bcf0-4a92-9050-d2dde29fa2b1")
+			(uuid "9b90587a-e176-4b9e-89e1-d325b6e9e24d")
 			(effects
 				(font
 					(size 1 1)
@@ -2284,7 +2117,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1620996a-ddcb-4b6f-bef1-d7137714db5b")
+			(uuid "b7c5b401-67e3-4379-a3e6-23d2ffd0945e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2296,7 +2129,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db815637-42e1-48e5-8435-b06916ac9737")
+			(uuid "a172f4b6-5a70-4706-9ad8-709af33cf4ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2612,12 +2445,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1d55270e-88f7-4165-bb63-d5e5fc882e4e")
-		(at 73.81875 40.48125)
+		(at 78.58125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K3"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "2190a09d-1991-4b1f-a2f7-1c57ee30811e")
+			(uuid "0d80e063-ae04-4570-aa63-b6aa5e13df42")
 			(effects
 				(font
 					(size 1 1)
@@ -2629,7 +2462,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "21b6152b-514c-49c0-9b7b-6d79664d7e4c")
+			(uuid "17ecdfe8-ff09-46c6-8b5f-f66fb41f5e89")
 			(effects
 				(font
 					(size 1 1)
@@ -2641,7 +2474,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e109fbc-0a76-4319-a76b-33e0aa15ad60")
+			(uuid "51b0718e-c78b-49d5-bc28-5676352dcc70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2653,7 +2486,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37c21d80-7cf7-4c32-a2a9-e2a6066d0455")
+			(uuid "e78e8390-1139-4732-b68c-6112145e3685")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,12 +2802,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1db9abdf-f5d2-49b2-80f6-e4b94f3cd18c")
-		(at 107.15625 78.58125)
+		(at 111.91875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K32"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "395571a1-3aed-4b75-9b63-106269705bbd")
+			(uuid "f5d91f36-ce5c-4e33-a695-ebc0871d56ee")
 			(effects
 				(font
 					(size 1 1)
@@ -2986,7 +2819,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "b716003d-4069-4474-bfd5-ba7c2048c351")
+			(uuid "ee223234-9586-4225-8eaa-598f79baada1")
 			(effects
 				(font
 					(size 1 1)
@@ -2998,7 +2831,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf78b5a7-8a9e-4f35-8757-79aec5f279f1")
+			(uuid "361edd1a-f9f6-43f4-b62d-9e1b3dc19522")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +2843,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e7ae9c5-1766-464c-9300-e3875c0fb44d")
+			(uuid "24d32949-ed75-4146-b981-ca0d9fbcc27d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3326,12 +3159,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1e23f902-a991-40dc-82ff-d3e0abf6a03a")
-		(at 283.36875 97.63125)
+		(at 288.13125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K54"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "cbf390db-1e35-48ad-84d5-d94ef3f17c37")
+			(uuid "aa821aff-0ce3-4c6c-856f-3771d163c1b1")
 			(effects
 				(font
 					(size 1 1)
@@ -3343,7 +3176,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "b96c4602-753c-46b3-a6e0-c2de603813c9")
+			(uuid "c2079fad-19b4-421c-809c-4b44712e7b2a")
 			(effects
 				(font
 					(size 1 1)
@@ -3355,7 +3188,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2a8f8d3f-ba10-42a0-a8cd-8db9193d9b38")
+			(uuid "6407e900-8730-4733-8e2f-ba2d7cacf18f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3367,7 +3200,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70316de5-1a11-4dc1-aad8-2cdb81bdca1d")
+			(uuid "da865d57-8e53-4d2f-a956-a6830d11f8fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3683,12 +3516,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1fe41da4-0bf3-4834-8b0e-5baee257a4c3")
-		(at 283.36875 116.68125)
+		(at 288.13125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K63"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "b96f65ee-4e97-48dc-925c-db6339534a8b")
+			(uuid "0871e778-b8bc-431d-a7ce-0b30e1f6cca4")
 			(effects
 				(font
 					(size 1 1)
@@ -3700,7 +3533,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "809f6615-144b-4854-a507-309ddef9dba4")
+			(uuid "c9f67215-4dcd-4a9e-8b93-191dd58a3904")
 			(effects
 				(font
 					(size 1 1)
@@ -3712,7 +3545,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47471939-9b89-468a-aaf9-5b4f133ca241")
+			(uuid "97abeb4a-2f9e-47a9-87ba-dfc6bff6fc07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,7 +3557,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a5d594a-df47-45b3-90ba-ff353fca10e9")
+			(uuid "1e061f4c-992a-4f6d-ae18-e4371c810f7c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4040,12 +3873,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "1fe504a3-6252-47fa-a978-ef406535f8a0")
-		(at 259.55625 78.58125)
+		(at 264.31875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K40"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "265c818a-0149-49df-b881-899605f69332")
+			(uuid "fc43fd25-143a-45be-b35a-44bffbe9e5e7")
 			(effects
 				(font
 					(size 1 1)
@@ -4057,7 +3890,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "8f646f4e-53ba-4956-a098-a309294eeac9")
+			(uuid "4440164c-eae8-4bbb-8286-78f87ff848ed")
 			(effects
 				(font
 					(size 1 1)
@@ -4069,7 +3902,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3ebfe17-47dd-4246-a3bf-303735f1bb0d")
+			(uuid "953de2d3-82f0-4c3b-97f1-6158625cbdd9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4081,7 +3914,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ae8bdfd-f121-4a44-be01-ae50e8e07268")
+			(uuid "bc03d420-9133-4f00-af0b-7a6e0b81078b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4397,12 +4230,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "20b853c7-7845-4cd3-84e5-e0426b36f081")
-		(at 188.11875 97.63125)
+		(at 192.88125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K49"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "f713ebd7-5140-4c13-bdaa-ce54b50960af")
+			(uuid "84cdc467-bb92-4870-8da2-cfaf970f0f7d")
 			(effects
 				(font
 					(size 1 1)
@@ -4414,7 +4247,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "8e2ee1e2-0caa-4872-a9e7-ec7694dbdd82")
+			(uuid "7b69a01f-eaac-4491-b604-a054c0663e75")
 			(effects
 				(font
 					(size 1 1)
@@ -4426,7 +4259,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2d472e5-7b7e-4b56-a9aa-920f94ac5325")
+			(uuid "a8fad38a-65db-43fd-b657-e461c2ed562b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4438,7 +4271,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f3c23ae7-95f6-4b28-9d8e-52cb6faa1141")
+			(uuid "b27b758e-9857-4ceb-aba8-4cce68ef53a7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4754,12 +4587,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2233d8bb-e3c1-4174-84ec-f70c39fa1218")
-		(at 302.41875 97.63125)
+		(at 307.18125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K55"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "b7a36b6d-d44e-48ae-8162-e6bb59157adc")
+			(uuid "93599106-7587-4b63-a0a0-f952edea6aaf")
 			(effects
 				(font
 					(size 1 1)
@@ -4771,7 +4604,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "6a3ed70f-c6ef-4165-9c94-e57009789817")
+			(uuid "5e1bf09e-0202-49d8-bc74-cc0b4ea62d06")
 			(effects
 				(font
 					(size 1 1)
@@ -4783,7 +4616,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dfb8b99b-570a-41f9-8776-738176be09be")
+			(uuid "5352080f-d37c-4fec-998a-4e2b43e32d52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4795,7 +4628,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5f69677-304e-4523-b866-448bc28764ac")
+			(uuid "16d48fe1-3fa5-4f37-ab76-8dfeac25e9dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5111,12 +4944,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "276f1281-c611-4663-b094-b31f64ffbd92")
-		(at 64.29375 59.53125)
+		(at 69.05625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K16"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "822e1efb-881e-4cb9-b213-fa90b3804294")
+			(uuid "e267ade4-f558-4d54-a9fc-b229a3afbb7c")
 			(effects
 				(font
 					(size 1 1)
@@ -5128,7 +4961,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "b5685842-2e42-46d6-a2f8-ed23d4899bf1")
+			(uuid "510aa985-15d2-499d-8911-62f9367cf0f8")
 			(effects
 				(font
 					(size 1 1)
@@ -5140,7 +4973,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f92a4d7f-4273-4cd4-9b56-979963ec0e57")
+			(uuid "fd828488-9c9a-41ce-9b1e-838fd562e9f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,7 +4985,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59d177b9-ea01-4642-a81c-15909ab7c08f")
+			(uuid "e3e60b17-ffbe-45e3-ab9e-dd3982e86704")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5468,12 +5301,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2a7a7c69-8ea0-41ca-8c34-a7411dc3b52f")
-		(at 292.89375 40.48125)
+		(at 297.65625 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K14"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "bb975b6a-c694-4cbb-9377-ba1274551db6")
+			(uuid "8757a666-c463-4ad1-af76-00cd9cd93e0a")
 			(effects
 				(font
 					(size 1 1)
@@ -5485,7 +5318,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "0b4d9519-fdaa-452b-8fb9-5a654a833a26")
+			(uuid "c1e78863-1e56-4586-aa2e-267b3e360042")
 			(effects
 				(font
 					(size 1 1)
@@ -5497,7 +5330,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6709c74f-af10-4070-85c7-8f1a7ee2af24")
+			(uuid "0fabf1b9-febd-4c76-9915-d9628c19f78b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5509,7 +5342,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38bdd430-67ee-4fe4-9ebb-2f2d0b993ea1")
+			(uuid "bffdccf0-cc79-47c2-ade0-b15d4c09ff13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5825,12 +5658,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "2fa3e5a9-4364-4c7c-b9a7-7bae76372739")
-		(at 302.41875 116.68125)
+		(at 307.18125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K64"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "e1d98a62-b4cd-4aff-b500-3380e0ef4a0f")
+			(uuid "1c00b828-70c2-428f-bd0a-3a4846b5e9b1")
 			(effects
 				(font
 					(size 1 1)
@@ -5842,7 +5675,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "678dd317-cdef-4ebc-8037-5e503f999e62")
+			(uuid "472c5bce-4b5a-45da-b33b-8388f078626a")
 			(effects
 				(font
 					(size 1 1)
@@ -5854,7 +5687,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32b95122-e63a-47c9-b40d-6a53b62fed3c")
+			(uuid "e2a3f8a8-be9c-4f1a-8b8d-6491339b7ee0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5866,7 +5699,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7d7bd35f-b61a-490c-8f1d-ea82f0337246")
+			(uuid "2362c220-dae3-4204-8513-06e90ef5b71b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6182,12 +6015,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3649e50e-a38f-4155-88dc-bc9f5720d7fe")
-		(at 226.21875 40.48125)
+		(at 230.98125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K11"
 			(at 0 9.525 0)
 			(layer "B.SilkS")
-			(uuid "23467697-7d7a-433d-93c8-a19bdef9a8a7")
+			(uuid "bc0bff35-33b4-4d62-bc60-00273c75c13f")
 			(effects
 				(font
 					(size 1 1)
@@ -6199,7 +6032,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "048f7c48-a0d1-4c1d-81af-ce89fdc245c8")
+			(uuid "d4eb032a-cd3a-4577-a1d4-316ac96df01d")
 			(effects
 				(font
 					(size 1 1)
@@ -6211,7 +6044,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "376e8452-4a48-429c-85cf-0cccd30b3077")
+			(uuid "16b077cb-2c64-47f3-8328-c0b6df5a8166")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6223,7 +6056,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5eecf3a-241b-40b0-bb98-698fa487b68b")
+			(uuid "dcd90686-cfd0-4fad-bdc2-f029f5ddc37c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6539,12 +6372,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "39344e9e-6a6e-47f3-973f-ccd64c71df23")
-		(at 40.48125 59.53125)
+		(at 45.24375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K15"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "e151445d-49c6-460b-baa4-d04552ef7446")
+			(uuid "be895a5c-2583-4c71-895f-d59b556fb75e")
 			(effects
 				(font
 					(size 1 1)
@@ -6556,7 +6389,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "baf5f45b-0dbd-494f-9053-48388d119846")
+			(uuid "8796245e-0223-4470-b332-2331fabf42f8")
 			(effects
 				(font
 					(size 1 1)
@@ -6568,7 +6401,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f8b5dcf-796d-45cb-8f32-3e4b11d304c3")
+			(uuid "78a0a729-8ace-492c-b87d-e5911a6f2ade")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,7 +6413,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c1819a0b-0f64-4a90-8df3-4f66db4c6a06")
+			(uuid "779569f1-f11a-4cba-9600-afb86a33e128")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6896,12 +6729,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3c9eac00-708d-4d58-b20c-d5064d759af1")
-		(at 207.16875 40.48125)
+		(at 211.93125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K10"
 			(at 0 9.525 0)
 			(layer "B.SilkS")
-			(uuid "47b22e2d-db1c-4e82-9e2e-5d9ff38e94e8")
+			(uuid "0d9256a3-0c54-436f-be81-022ca034ba80")
 			(effects
 				(font
 					(size 1 1)
@@ -6913,7 +6746,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "66a0008f-9ed1-4932-aa53-8970bd2b7058")
+			(uuid "69d847af-9129-4e94-87b7-875b5b5dfe2d")
 			(effects
 				(font
 					(size 1 1)
@@ -6925,7 +6758,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71d37521-1972-4414-82d9-8828696760dc")
+			(uuid "67d39dae-7a7f-4848-baaa-9b804abcf751")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6770,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93548ed7-d32c-4822-9dc1-161565fb1635")
+			(uuid "62a40bac-d360-4317-bae7-fac0049cfb6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7253,12 +7086,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "3dd5f030-b41e-41c9-b00c-ea7e8e588451")
-		(at 154.78125 116.68125)
+		(at 159.54375 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K59"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "93a4c300-623e-49cb-a406-00c1282491d1")
+			(uuid "423e6af2-4292-4ce8-b4aa-f1f799057dda")
 			(effects
 				(font
 					(size 1 1)
@@ -7270,7 +7103,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "a9e33fa1-644b-412a-914e-8034a132a6b8")
+			(uuid "5a6d08a4-b942-4d45-9bf6-761d45aae1ea")
 			(effects
 				(font
 					(size 1 1)
@@ -7282,7 +7115,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1d4095f-7adc-486b-be71-e3e1c3035c15")
+			(uuid "6f21dac5-6fa3-4fb1-938b-d46405616d4a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7127,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54928d62-00bb-4454-97af-65b4a86df7f5")
+			(uuid "259d349f-6f8c-4741-8c72-7b819b3bb6f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7610,12 +7443,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "40b6c84b-4288-441c-9f75-d644a3cbfe79")
-		(at 273.84375 59.53125)
+		(at 278.60625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K27"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "55d43170-ec65-4dd1-8f66-289df250bb24")
+			(uuid "809fdd27-1ee4-4e3f-ac06-eeae372a1a08")
 			(effects
 				(font
 					(size 1 1)
@@ -7627,7 +7460,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "03ee1fc1-c016-4f06-81ef-dc8fec444d31")
+			(uuid "d3ad7c0c-6931-4bbe-a551-8c15045bb9a1")
 			(effects
 				(font
 					(size 1 1)
@@ -7639,7 +7472,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df4c9dbc-3936-4371-8c40-4d0f191a16df")
+			(uuid "0e09be1b-9bb5-4df6-b7b3-c58445ba8516")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7651,7 +7484,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4431baad-bff3-4a40-9eb0-c65ac11b054e")
+			(uuid "e83fc28d-e901-46e9-8dcc-16ed61cfec92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7967,12 +7800,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "40dc85d5-a0c6-4f7d-921c-efd63056efc5")
-		(at 130.96875 97.63125)
+		(at 135.73125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K46"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "6ae41bcc-e3dc-45c1-893e-912fbad4bfe9")
+			(uuid "7fc179ca-bac5-45b8-bf8f-090ece1ddbdc")
 			(effects
 				(font
 					(size 1 1)
@@ -7984,7 +7817,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "429e7aaa-60ce-4b20-a1a3-631f247fe49e")
+			(uuid "61108655-4848-490f-b5af-bd3f20071a5a")
 			(effects
 				(font
 					(size 1 1)
@@ -7996,7 +7829,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55f486a2-4385-4c42-8d45-dd4498a6758d")
+			(uuid "8b18aa2a-1bb6-4817-90f1-d75fdac5b4d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8008,7 +7841,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29ec1c48-9ed8-4947-a161-47935bb7f7db")
+			(uuid "76d5da3c-61b3-4cfd-84df-58c01d1ff6e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8324,12 +8157,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "414a84a0-0bf5-4fc5-99a2-143b132de043")
-		(at 111.91875 40.48125)
+		(at 116.68125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K5"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "9032227a-0045-48b7-bace-4284c732e8e0")
+			(uuid "7b9cba8d-76c1-4823-a919-cd0f0e8ecc6f")
 			(effects
 				(font
 					(size 1 1)
@@ -8341,7 +8174,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "47197e91-404f-40bd-aaaf-7b643d1522ca")
+			(uuid "122fb99b-a8fd-4d98-a0ae-d550c29676f6")
 			(effects
 				(font
 					(size 1 1)
@@ -8353,7 +8186,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5d071bc-b019-4ce7-9633-1538370345ba")
+			(uuid "afd50021-90f3-46c2-8355-d02571432a2d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8198,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26eb33da-b187-4807-9fda-1d5fb681b31a")
+			(uuid "32383107-dc52-4b7a-b76c-aff8a3e143ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8681,12 +8514,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "473c1479-c784-4679-b982-c32bdbf08277")
-		(at 145.25625 78.58125)
+		(at 150.01875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K34"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "316facc8-a84c-47a2-a9bc-d4fc03acfafb")
+			(uuid "0fddbce6-313b-4476-b791-64db66bc958d")
 			(effects
 				(font
 					(size 1 1)
@@ -8698,7 +8531,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "305cf429-b6c5-4eb9-baec-ff8217ee4e43")
+			(uuid "120e4c99-77bd-4d54-8063-9e73ed15ffd2")
 			(effects
 				(font
 					(size 1 1)
@@ -8710,7 +8543,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b43ac1e1-18b2-4cb3-a142-0d8b426f08d8")
+			(uuid "e1bab210-c409-47ec-a7ea-573c217010f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8722,7 +8555,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "25713c52-46a7-458e-b6ec-3516c60f2ddb")
+			(uuid "31b55f61-b928-4540-a577-5f4ced7884ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9038,12 +8871,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "4e548748-b49a-40a7-ad05-7d6063e49182")
-		(at 88.10625 78.58125)
+		(at 92.86875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K31"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "0f3e54c1-e302-4d17-880c-e0988ff12ed4")
+			(uuid "309eb660-ecc9-42ef-b625-774329be9e78")
 			(effects
 				(font
 					(size 1 1)
@@ -9055,7 +8888,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "8fd75167-930a-4677-979f-446bfd2c2005")
+			(uuid "ca3f429a-268f-4c5c-be9b-2e1f62211929")
 			(effects
 				(font
 					(size 1 1)
@@ -9067,7 +8900,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3265f152-5a85-4614-9c1a-87fdbe8a7f54")
+			(uuid "a0fa53fc-fede-4e77-8308-2da591c9b531")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9079,7 +8912,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "757d8d8d-6983-44f2-8c84-31dad971557b")
+			(uuid "4ec660e0-050b-4993-b651-6dfc9f8934b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9392,633 +9225,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "508baea9-bbb7-4e32-9f45-cbd8d28981a6")
-		(at 489.225 191.49)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D6"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "2b8bd261-d84c-4eb6-ae60-00b8b1aacf2d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "7dc80893-a9aa-4ff2-99bc-d770725de9b3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "89b4cad3-f672-4432-a231-84e8c74c23ca")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "473047d4-9971-4652-9ac4-b4e4eee876d5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbcdbc93-a8e0-4450-9a9f-a89e23dac938")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dfc8a29c-bcca-4ee2-aad1-081d6123e72f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/a9f993f0-9f77-404a-8505-a69d46fed758")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "47634d26-7b83-4baf-8903-f4a0d2c3590e")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "adecccc9-8e0d-4f35-9d46-fe818619876c")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "94e76ccd-5168-4166-98bc-c8440808724a")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c6b0b0d7-0759-47b4-abc1-5728e22e45c4")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "370e83bb-c671-4ee0-bf73-8770279a1efc")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "29fbb07a-9a5d-4b93-ba21-c7fcf31dcad6")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "25d3953c-f35a-448b-ae90-8c4640be3778")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "49a179e3-080a-4f5e-8ff9-fd069d02664c")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "69cefc1f-3a0b-455e-9914-ced346a23cc3")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "07d902bb-d242-4561-ac02-6be4522360ca")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1adce038-d05e-4ba7-9121-46c26206d675")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "36dbd16d-20c4-4af5-97e1-b94bcf4163ce")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "27721325-3cb5-487b-b635-aa8678555bf8")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "07a259f2-2aaf-46f3-8fd8-b08e23bd688d")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "51319dba-2ca8-4b13-8b48-5a1e02dbbebe")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1226c5c3-8e68-4829-8791-b8f7a4a8c9b5")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b7862b4a-939e-4532-af6a-26724d11f22f")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "dc6a380d-b685-4349-b79f-1ce54478831a")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "bad00829-409c-4706-a9c6-ecf2e8933c19")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 25 "/COL6")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "56f337ab-234f-40d1-a41c-17b9b1320a50")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 6 "Net-(D6-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "6dbb85f5-880a-400d-9a99-09a11f9b9421")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "5606b120-a372-415f-9714-01c2800e2b9f")
-		(at 489.225 194.84)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D7"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "1cc025be-118d-459f-bfab-ef69a0d872ba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "5a10c478-8470-4f7b-a0d7-6fda2437887e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "86888531-9d2c-431c-861f-0320e66a9c71")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b841521d-e6a9-4c64-bf87-6dfb75704383")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49315ba5-9658-45d3-b14b-ed614351c582")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "674159b9-c6e2-464e-a708-9653a0bff613")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/1b376a20-2fdb-4594-83cb-3a7c9d3d7481")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "14fefde2-bf44-4f29-97fa-a0bd3722e614")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "37c88ed4-96b2-429f-94d9-f81fc4733826")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f769219b-6e73-4b10-9bc5-80798cf9183a")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b2644469-72c9-4d2d-afd1-e2b50bbf3aed")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9243808d-c4c1-46ca-83d3-ac006e20c6ab")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "feac30de-25f7-43a6-97af-a14b96275706")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b84d6707-bd47-4bce-a937-fb215e7b8f60")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8647c31d-427a-4592-a74f-3f63f50e2cef")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a47b8454-a6b5-4474-b4bf-bdece26cf323")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "9db86888-a013-4b7b-8654-027d0d289f2e")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "4dc661bd-e1c1-4f07-ad34-7f6d6e506647")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "fcb4bc04-984e-45ea-9290-093abf06b705")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "59863ca3-41f0-4147-9512-5173ab97e5e9")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "fdd31c46-051f-4567-be57-df863ad443f8")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "4eb51574-5832-4b25-89f3-255643ba746b")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "af5ab65f-e099-4889-99ef-3e305cf6be13")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "86df7970-eb0f-424a-bc52-cd6515d7cabb")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bb65903a-2bb4-403e-91cf-3b9f541d6790")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "4c72bf6e-9155-4dd4-9323-b6bd9a0f5212")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 26 "/COL7")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "7037281d-34e9-49ee-b592-c38cb9a98590")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 7 "Net-(D7-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "dd68499c-212a-4c4d-9de9-2af80a6fe0d3")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "56a9bffa-6471-4a11-beaa-20f601e82d40")
-		(at 92.86875 40.48125)
+		(at 97.63125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K4"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "43de35a5-2171-44c4-9e70-5b809d9b9a4f")
+			(uuid "4f01c0ab-f80b-49c6-9f70-f8c81be3d764")
 			(effects
 				(font
 					(size 1 1)
@@ -10030,7 +9245,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "015a508b-e6f6-46be-b603-a888bd531305")
+			(uuid "d655a7d2-068b-495e-aea1-01942eff4af5")
 			(effects
 				(font
 					(size 1 1)
@@ -10042,7 +9257,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a13e589-d0e4-46a1-a09e-cf869fec925b")
+			(uuid "8a6c7766-10b6-4b0c-a436-ff123a5cef28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10054,7 +9269,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b8c386b-165e-4616-bab2-bcceaa40d1c6")
+			(uuid "97a36974-c33e-48ce-acab-c6f3e43d8d45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10370,12 +9585,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "5b15ea88-c663-45ac-b1cc-e8affe91c5f7")
-		(at 202.40625 78.58125)
+		(at 207.16875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K37"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "e75ff47c-0d9f-41fa-8010-6f8769825f4f")
+			(uuid "091258ad-0b27-4cf5-862e-0b3dde5b7f42")
 			(effects
 				(font
 					(size 1 1)
@@ -10387,7 +9602,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "54e1c5f5-7c05-48e5-a11e-7f4636122fcb")
+			(uuid "40ee1459-5794-40d1-b115-e8be0cf53741")
 			(effects
 				(font
 					(size 1 1)
@@ -10399,7 +9614,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff515f72-52e3-416e-8ff6-49585a08b1ce")
+			(uuid "ba52a1db-1d31-48a2-94bb-2b7600a21b22")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10411,7 +9626,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "410e222d-d807-4841-b13c-5f4b8ed71a40")
+			(uuid "1a1c855b-02d2-4d37-a9b4-5e74ff998194")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10727,12 +9942,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "5f2a2903-5401-485d-83cc-5eba235524db")
-		(at 188.11875 40.48125)
+		(at 192.88125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K9"
 			(at 0 9.525 0)
 			(layer "B.SilkS")
-			(uuid "d78650ee-6d4f-4990-b809-9278ff3e9e41")
+			(uuid "c516ad9f-d047-4ed8-8060-f6d60305663d")
 			(effects
 				(font
 					(size 1 1)
@@ -10744,7 +9959,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d42c1d56-7a55-4324-9b39-aa5fc3366281")
+			(uuid "639c26b2-b3fc-43cb-a858-1e4b467b180c")
 			(effects
 				(font
 					(size 1 1)
@@ -10756,7 +9971,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5cbfb937-9743-4405-bbd0-975bdb19504b")
+			(uuid "61bb04b5-bcf8-48bb-aa58-bd5581a48ed5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10768,7 +9983,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f4234fd-e646-48eb-ad12-6a707c76820c")
+			(uuid "6eea3d4e-8164-4a31-88df-d4c00ef851b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11084,12 +10299,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "6153a575-3d0c-4638-8a86-287d504289c4")
-		(at 216.69375 59.53125)
+		(at 221.45625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K24"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "4c5a7ad1-1d11-4cb4-9e53-44def29763c2")
+			(uuid "2ae5c304-6adf-4447-8b59-b69dc474249e")
 			(effects
 				(font
 					(size 1 1)
@@ -11101,7 +10316,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "de08f154-db1c-4135-836b-4da3240df2f3")
+			(uuid "cab7d107-32dd-46df-aaf6-d5b54b65765b")
 			(effects
 				(font
 					(size 1 1)
@@ -11113,7 +10328,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54994d2f-7fe5-4161-a11a-12b949e2c9f5")
+			(uuid "2a702dc2-c733-4f1d-adca-dab91a6d74fc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11125,7 +10340,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e6d6ad8-9707-426b-b17e-007cdf097482")
+			(uuid "43454a96-df2d-4d55-b03b-0105daca93ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,12 +10656,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "689defbc-e85e-4dd2-a18a-0c074b86893e")
-		(at 254.79375 59.53125)
+		(at 259.55625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K26"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "7b4a1c0a-9d00-442d-a897-143f475e4af8")
+			(uuid "c1f31d8e-ca85-4779-8c31-d98bd775bf9e")
 			(effects
 				(font
 					(size 1 1)
@@ -11458,7 +10673,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "e140d400-9e85-4576-b084-cdae7427349c")
+			(uuid "8e8bd342-4af6-4b36-afb4-15bfc19ad8d9")
 			(effects
 				(font
 					(size 1 1)
@@ -11470,7 +10685,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81d0e56a-e0ae-47ee-8059-214a335e78fb")
+			(uuid "3305c8f2-172d-4b01-9c1c-b2422cef80ad")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11482,7 +10697,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e48c95af-c193-4fd1-a0a8-6fd023f7e8f1")
+			(uuid "71b5ba4f-4f11-4e64-a90f-3d9c2bb8e3ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11798,12 +11013,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "70d20b25-aa64-4008-8684-9381b8217bfa")
-		(at 83.34375 59.53125)
+		(at 88.10625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K17"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "0f9230b8-59d3-4501-a116-c94c1a717727")
+			(uuid "c25d711c-2d68-4fe4-bf22-fcd647f23742")
 			(effects
 				(font
 					(size 1 1)
@@ -11815,7 +11030,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "5b9ca9a3-063d-45e2-b6c7-734ada318d30")
+			(uuid "439c3486-13e7-4b9d-b9dc-f8134bc6ac9e")
 			(effects
 				(font
 					(size 1 1)
@@ -11827,7 +11042,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce483429-01d2-46ee-968a-057569ae9887")
+			(uuid "6b28e7ac-60d0-4c11-bbc2-39e3a4276547")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11839,7 +11054,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d362409-0f86-4901-9fd4-03c97a743673")
+			(uuid "0303fda6-047f-45b5-8c0f-f33211d8598a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12155,12 +11370,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "73b60dee-0c7d-4c10-8f7e-1c9f4a9b583d")
-		(at 183.35625 78.58125)
+		(at 188.11875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K36"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "15cb684a-ca2a-4638-9e16-019b1f5d1651")
+			(uuid "0788bf37-81d1-4210-b885-e691de1113c2")
 			(effects
 				(font
 					(size 1 1)
@@ -12172,7 +11387,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "b6d6ea5e-3c9a-4b2e-bacf-2dff399ea09c")
+			(uuid "e6ea3ddd-f8ae-4527-84c5-9a160e39ccd6")
 			(effects
 				(font
 					(size 1 1)
@@ -12184,7 +11399,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2a82ecb-2fd2-4f3a-a3a5-8b948f54be64")
+			(uuid "ef996434-c47e-4d3d-a8f8-7fb752b88d59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12196,7 +11411,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2426650-0ae4-4351-a5a0-e7077e2a43f1")
+			(uuid "c5f51ea4-abb7-4f7c-b29f-3d8aae3b3ba0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12512,12 +11727,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "74f5e450-efc9-44bc-b4b0-fa7af23bca0e")
-		(at 297.65625 59.53125)
+		(at 302.41875 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K28"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "4c445d4e-c10c-4bb1-89f9-3f686aed9d14")
+			(uuid "8218454b-28bf-4935-81fc-2e32422baf92")
 			(effects
 				(font
 					(size 1 1)
@@ -12529,7 +11744,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "849313f0-71e0-4178-a6d4-3abb728a581d")
+			(uuid "8c604eaf-2ba4-4f60-b1aa-e55ddf0540bc")
 			(effects
 				(font
 					(size 1 1)
@@ -12541,7 +11756,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c02436b-e129-4a0b-acc7-1763e06a74c9")
+			(uuid "9e21e1d7-5183-408c-a6ee-a29f865c5cd6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12553,7 +11768,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1bf794f0-bfe3-4f28-8ea5-748a1d84fe99")
+			(uuid "6de7ece4-2795-48be-91b1-6c3903bdd099")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12869,12 +12084,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "75a8306c-05e4-4af9-a38d-fe6b2fc5a05d")
-		(at 38.1 116.68125)
+		(at 42.8625 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K56"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "4930c4fb-5c82-4798-bea9-6b63028116c5")
+			(uuid "c857840c-d334-4631-ad31-aefc9961c65d")
 			(effects
 				(font
 					(size 1 1)
@@ -12886,7 +12101,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "de0594e9-db5c-4de0-957c-393e1d2649d3")
+			(uuid "b30fd3b3-9555-41e3-8fdf-ce6be9137ade")
 			(effects
 				(font
 					(size 1 1)
@@ -12898,7 +12113,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d09061d7-2152-4b88-8527-d201b610d7bd")
+			(uuid "24f3b814-f806-4457-a2e8-7054b1040291")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12910,7 +12125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ab721591-d048-4e88-a223-aa7957b3be56")
+			(uuid "752a4b9b-bcf2-4f7e-a6e2-f40ca7f997c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13226,12 +12441,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "76338c0c-47e2-48ca-8cc7-a2353e774aca")
-		(at 207.16875 97.63125)
+		(at 211.93125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K50"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "aea79210-7c91-4ec4-8ef5-f667850d1213")
+			(uuid "0f752a82-6b52-4daf-84fb-2d328d48f184")
 			(effects
 				(font
 					(size 1 1)
@@ -13243,7 +12458,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "a4b7893a-82ca-4f2f-a65f-4f2484f14da1")
+			(uuid "e7e5112a-93f5-4ac9-af7b-f0efd31b19a1")
 			(effects
 				(font
 					(size 1 1)
@@ -13255,7 +12470,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6d0f6e1-e5d7-470f-b862-4b050c602e2b")
+			(uuid "4f49acbd-4581-4e27-adc2-208c139dd239")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13267,7 +12482,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4bd66137-0fc5-4500-8c3b-13fe6c68d3f3")
+			(uuid "217ebd82-4d74-4268-8de8-5b7f314f4692")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13583,12 +12798,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "793e83b9-21bf-4270-ad5f-a188edba2fa5")
-		(at 159.54375 59.53125)
+		(at 164.30625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K21"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "c32a1549-cb61-4e50-9cb9-d52f0da94e6f")
+			(uuid "8206fd3c-b0d4-4268-a4e5-7bf5fed4bf16")
 			(effects
 				(font
 					(size 1 1)
@@ -13600,7 +12815,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "01750268-ae03-4007-b423-54ea4532b751")
+			(uuid "6d7aa4b6-ee83-4270-b93c-0c998c28bda0")
 			(effects
 				(font
 					(size 1 1)
@@ -13612,7 +12827,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8eb5bde6-2f0c-46ea-b200-bb7e43079a84")
+			(uuid "6f8df986-ec90-4e66-bf2d-c3cc1fd5b89f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13624,7 +12839,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9539b5a5-a4f1-4c39-b946-cd581fb75f2b")
+			(uuid "0e87ed8e-768b-449b-80fb-1dba697fb5c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13940,12 +13155,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "79c79109-5565-4850-a6cd-191e3ef8e9e8")
-		(at 54.76875 40.48125)
+		(at 59.53125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K2"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "82f9bb28-4486-442c-b7f5-0fb4eb7860f8")
+			(uuid "9377633c-d8b5-40bd-9163-7c7e8569a61a")
 			(effects
 				(font
 					(size 1 1)
@@ -13957,7 +13172,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "c0945687-4f45-4c96-9c85-f2261c7fc15b")
+			(uuid "9f2ea620-4939-40d5-9243-c3da0e241a5f")
 			(effects
 				(font
 					(size 1 1)
@@ -13969,7 +13184,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c298cd75-493a-4a91-8082-aa547381dd2b")
+			(uuid "f358a090-ab06-488d-877f-7a39ac796149")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13981,7 +13196,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3295c2a4-330b-4515-80df-2c184a2cdf78")
+			(uuid "d8aa71c1-3da7-4bfd-8f43-a18e803030c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14297,12 +13512,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "852f7bd6-71d9-40f3-bbf5-5e9411358124")
-		(at 69.05625 78.58125)
+		(at 73.81875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K30"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "7866043a-8a17-4663-aff0-8f24573cc0ef")
+			(uuid "76542e39-6cc5-47c5-bac8-5763fadef63e")
 			(effects
 				(font
 					(size 1 1)
@@ -14314,7 +13529,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "531a6193-b661-4c86-84b4-6337f533a2ad")
+			(uuid "5ca10943-ddfc-410e-b0e0-f65e6fb8b8e5")
 			(effects
 				(font
 					(size 1 1)
@@ -14326,7 +13541,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3edd991-9615-458b-9068-c175ae11c752")
+			(uuid "3cc8b571-ab4c-4254-8e2a-f51b19b72bd7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14338,7 +13553,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bcc49de4-1bcb-4df1-904f-2f35ba852e0a")
+			(uuid "94e2ada8-91ce-4282-869c-4c588e9c58fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14654,12 +13869,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "862fdf17-3a70-4dfe-b387-fa510a8bf0ba")
-		(at 150.01875 40.48125)
+		(at 154.78125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K7"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "74213933-2b80-45a5-8809-6d5f742eb3f6")
+			(uuid "91b1bec7-d2c1-40c1-93e4-d36a2263073e")
 			(effects
 				(font
 					(size 1 1)
@@ -14671,7 +13886,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "c3b3c251-5341-4f64-9ab9-86ee123f5e1b")
+			(uuid "551aea49-0bf6-4675-9692-56b2719c5069")
 			(effects
 				(font
 					(size 1 1)
@@ -14683,7 +13898,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40da377b-f5c5-41a9-94a7-5b7504707c09")
+			(uuid "2281f9d8-6126-4360-8b4f-a8c7d4855064")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14695,7 +13910,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0a0e17ee-700a-4573-84c0-f4a1587b6f66")
+			(uuid "b2987c1f-dd90-4b33-89e5-46a5a7568a0b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15008,324 +14223,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "8ba43218-41dd-49a1-96bf-ef6ed82937e4")
-		(at 489.225 188.14)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D5"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "cd3093f7-ebff-498a-b162-3cd0d731611b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "038d3149-4149-454b-92f6-8458470bd96e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1001a0d4-6bd9-4cf9-bba3-33be2bd6a942")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6821f96c-6ac2-448d-9415-ba813e7e5077")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "998c5921-2149-4d5b-97f9-ba747bae9e3d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4194afcc-7662-498d-9bcc-706d1c53e384")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/8618c095-d26e-41f6-a778-0cbdde45bc27")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "702b8ad5-4407-4811-b0a8-38f310f3a99c")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7929dcd2-c755-4ebb-8168-ad1fac97a276")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f789b788-6499-4d97-8011-ff59cb715451")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0ebbf23d-ba3d-4bb7-bf23-d079afd46a47")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "da7dfb49-1812-4e80-8215-afbd9db7ab4b")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cd167dc2-7c1b-47ce-878a-3ca31e60d362")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "6c22e559-3364-4f01-91c1-a2b95200157b")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e2d623aa-0f47-4d27-b647-7dc42a5b1e78")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7b1981cb-8e69-44d3-8ea7-62a411dd95f0")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "bbcd1f4f-8f64-43dd-a6ad-6ba4ec8d26b6")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e25244c7-6107-4541-8a26-970fc2bbb410")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "2abb1e07-f4d3-49be-8dee-97d0b0821d21")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3bf535ad-67dc-457d-827d-d90c32ee8fdf")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "55d62946-1fa8-41d6-a841-780b9762d4ac")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1270929c-4926-4789-98f2-c188e7f04010")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "22b9fa48-1596-4aab-8935-ef900355d7d8")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e83093ab-a61d-42c9-8115-e84d34038ea1")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1e29c7c9-2bcf-422b-a04c-d733a13a3a4f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "4889ffab-3902-43d7-b957-4615e27488ed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 24 "/COL5")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "a5b08c41-4c14-452e-85db-30ae5ea5c4f6")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 5 "Net-(D5-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "b652fc38-feed-498f-b976-67d2ba39c754")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "901b02dc-5b76-4a67-b855-1a7325c95457")
-		(at 178.59375 59.53125)
+		(at 183.35625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K22"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "92761995-5a6f-4d68-9a10-03168c70a66e")
+			(uuid "f9a26cd9-fc0e-4cef-86ba-2dea7f7a344c")
 			(effects
 				(font
 					(size 1 1)
@@ -15337,7 +14243,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "54d6ce7d-126a-4280-8fdf-b5fe0e619801")
+			(uuid "49898dc6-2e7a-4be2-b1f2-fcc756855e61")
 			(effects
 				(font
 					(size 1 1)
@@ -15349,7 +14255,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d55afbcd-d0e3-46ca-a47c-a42d813d75a1")
+			(uuid "46a11c6c-b5bf-4102-b5a6-30afb3d897b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15361,7 +14267,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23d38543-d02b-470c-9350-7d7c8ec88b70")
+			(uuid "80f1cd86-f8f0-4c13-ad29-256009eeb85a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15677,12 +14583,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "910ff2c0-08e8-4032-86ce-8c250516dedc")
-		(at 240.50625 78.58125)
+		(at 245.26875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K39"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "0ac474be-fd47-4bcb-97b8-db0ca75e69f4")
+			(uuid "d4c1479d-2e59-4fb8-b158-d11ed619360f")
 			(effects
 				(font
 					(size 1 1)
@@ -15694,7 +14600,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "c01f9a9f-1558-461a-be12-13516d2918f9")
+			(uuid "76eec35b-0ad0-49d7-a430-bbfccafb2e6b")
 			(effects
 				(font
 					(size 1 1)
@@ -15706,7 +14612,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2d36101-1dd0-4ac7-ad23-6a28aa1dda09")
+			(uuid "9793e768-7162-419b-88ee-8a5c4be2fa0a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15718,7 +14624,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5003c00d-b906-4ec8-88bc-56ba7bb9aaa2")
+			(uuid "742f7db6-1d64-4991-902c-790aa29081f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16034,12 +14940,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "9e187003-997d-46fa-8ba4-616eab514080")
-		(at 245.26875 116.68125)
+		(at 250.03125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K61"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "920ece51-68e4-4237-b158-a7a79d331f1c")
+			(uuid "2c8a2a23-9d58-4f75-b451-8bb378d2fe19")
 			(effects
 				(font
 					(size 1 1)
@@ -16051,7 +14957,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "6fcca5bf-9054-4854-a263-4bad243df1d4")
+			(uuid "efbc76d0-b9d9-48d7-af56-f51cf224d07a")
 			(effects
 				(font
 					(size 1 1)
@@ -16063,7 +14969,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b7be41c-271f-4830-9c32-4c1f4949c3f6")
+			(uuid "9c015e2f-bb2e-40e6-8dbb-4c5863e92e9a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16075,7 +14981,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e61fb201-c12c-4cbf-9faf-da84ba4022bd")
+			(uuid "99df08eb-4959-4601-804e-3a2d40731b19")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16391,12 +15297,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a1d6dd5b-666f-48c9-9a46-380c7260459d")
-		(at 80.9625 116.68125)
+		(at 85.725 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K58"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "0df77b0d-487c-4dcb-a666-3612437f137e")
+			(uuid "59b7d898-4aa7-4520-b68a-23e9614d68fd")
 			(effects
 				(font
 					(size 1 1)
@@ -16408,7 +15314,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "2c24a5ef-b3ee-4c28-be11-854b742b60d9")
+			(uuid "a13cc6cc-9455-4db2-9ad4-0f5d1182cf50")
 			(effects
 				(font
 					(size 1 1)
@@ -16420,7 +15326,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6bec10f-54c0-4483-8ed7-3d79ccc92f16")
+			(uuid "b2212c7c-af38-408f-86cb-d5996fe36604")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16432,7 +15338,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30bc3c33-d305-4e55-8d48-5040f520ec8d")
+			(uuid "8251be7a-8a61-4c62-98cc-360eed645d81")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16748,12 +15654,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a410b7e6-a877-4c6d-bdb7-3f7a61e15f04")
-		(at 197.64375 59.53125)
+		(at 202.40625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K23"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "c1147264-48a6-4619-b4ea-4684a147f4ba")
+			(uuid "20e55606-94cf-4b68-881c-5739ee4804f5")
 			(effects
 				(font
 					(size 1 1)
@@ -16765,7 +15671,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "ded12b9d-5b34-4c28-97c0-fc2e304f18b4")
+			(uuid "1c8c8c5c-0c76-40b3-ac4b-24cb5f7d3f8d")
 			(effects
 				(font
 					(size 1 1)
@@ -16777,7 +15683,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79107ae5-6b34-4f01-847f-bd5e73a4b25c")
+			(uuid "34afcc6d-7bfe-4b8e-80e4-7a3e495897a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16789,7 +15695,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7aa7b050-becb-41cc-b60c-f5a2c1c47666")
+			(uuid "6521fc78-e1ba-4100-ab2d-83f603398826")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17105,12 +16011,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "a78d95ba-5746-4891-adb8-31e4d3462a43")
-		(at 121.44375 59.53125)
+		(at 126.20625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K19"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "583c61fd-f187-486b-81ad-7364823a439e")
+			(uuid "b1eff73f-c720-4bac-a1fb-4316ec756a6c")
 			(effects
 				(font
 					(size 1 1)
@@ -17122,7 +16028,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "6b130f76-9a0c-48c5-9437-82836ec790d8")
+			(uuid "b12c1810-17f7-4343-93ec-548446b287cd")
 			(effects
 				(font
 					(size 1 1)
@@ -17134,7 +16040,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c228274a-e66b-4793-aa17-557eb409d040")
+			(uuid "2de0406d-179c-40f8-bb54-38f10e378758")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17146,7 +16052,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e1ce0e3-6801-495e-b2cd-37b07f9d0da8")
+			(uuid "f216190a-722f-46dd-9166-6901efd1df0e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17459,324 +16365,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "a88edddf-5130-4fac-adf4-8c616e0ce7cc")
-		(at 489.225 181.44)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D3"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "3c3aade7-f09f-447a-9091-4603dd368399")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "e6f710aa-a1cf-497c-8053-e6a318c224b6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e326a163-e24b-438d-b747-f3cb1233412b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7d5d2c3f-e248-4920-83c6-77c953a0ec57")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7d80da40-0949-4e83-9130-2fd19720dfde")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "47669d0f-a51d-4b18-afff-e69245fcea8d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/3465ff3f-e896-4bc2-913b-8d3ea5d98a92")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a00f8199-83bc-4211-bc73-066134ce6b38")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c2bf8706-7f18-49a4-8680-980a9920787c")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0fe8999b-d4e2-4478-9da0-8b476ce02a15")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "be2d968d-2516-4807-85b4-a05073f5847a")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "fc3c7471-23d0-4c10-9890-1553c2349bbd")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "95f1c077-df66-4f44-87e5-e6371a2fb218")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7afebd74-9359-4d86-8d14-2b4d1d47967f")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d38b9ea3-ff84-4332-b30f-06f38a9c023c")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7ac1374e-fe5a-424b-ae06-64bad345999a")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "92a70be7-2489-4bd0-947f-e5a2bf2a3cad")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "aa7a3434-9b68-440f-807e-eb580787ab61")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "0b351cd4-27a3-45e4-8798-bd2ee2b9f6ae")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "271cb803-ba62-46b7-9a4e-375314513a2f")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "90fa2921-04d3-4a70-acae-21675061d4ec")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "55df7237-99b7-46a7-b418-f5cc3ffa3d87")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "67d66e78-9bcf-4a8b-a996-267eea2cc94b")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "655a68bb-ab83-4daa-b200-a0cb554de7c3")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8e71bc15-f654-4655-9857-ca8134f0e0b4")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "21c9ca57-8f78-4120-91fa-6a4d4bbbf88f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 22 "/COL3")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "a68681c2-7499-427f-94bc-31dca79aaeba")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 3 "Net-(D3-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "3322787b-385b-4c54-b399-90448b3b09f0")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "aad900b4-a221-4790-9fdd-2d3f0de495bc")
-		(at 45.24375 97.63125)
+		(at 50.00625 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K42"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "5d488268-852e-49a5-a8f6-7df3d3cf4cd5")
+			(uuid "ea8001c8-2358-413e-a6bb-e56d88e3bb99")
 			(effects
 				(font
 					(size 1 1)
@@ -17788,7 +16385,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d7e8121c-396b-41ac-a7b2-6fd22e24dbb5")
+			(uuid "a6a16f0b-cfea-47dc-8a27-eff87e660639")
 			(effects
 				(font
 					(size 1 1)
@@ -17800,7 +16397,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "741a5522-23b6-4987-8064-fdbe1a0f7623")
+			(uuid "a8f8e020-98a6-46cc-b4f6-7b24f2a0a297")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17812,7 +16409,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32436fc5-afc1-473d-8439-78e34d0cf0fd")
+			(uuid "e80b964b-2212-4c41-896a-02548fb1c108")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18128,12 +16725,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "ac7f317a-f018-45bd-8a8e-7d8c106c73cd")
-		(at 221.45625 78.58125)
+		(at 226.21875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K38"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "0b76507c-178a-436b-9f97-26950f0c2854")
+			(uuid "9d5fc642-0cc8-4dd9-a9a7-d3e45fc8bf7e")
 			(effects
 				(font
 					(size 1 1)
@@ -18145,7 +16742,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "2b2c06a4-b0b1-4c5a-b449-945ceb4fd577")
+			(uuid "89919b88-9188-4213-bd5e-d76a83a900cc")
 			(effects
 				(font
 					(size 1 1)
@@ -18157,7 +16754,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5bd2178c-45fd-491f-8e5f-e6a7f1ca98a5")
+			(uuid "4c713a8d-c978-4bf0-b674-c3f86ab0b195")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18169,7 +16766,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6cb12816-6531-4979-a2db-4fb658e5d8bd")
+			(uuid "1707c841-feb6-4ee7-994c-c6835e9607ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18485,12 +17082,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "adab5b2c-f6bf-4fb8-aec4-0abbec6826ed")
-		(at 73.81875 97.63125)
+		(at 78.58125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K43"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "3aeebbb7-610c-4e50-9ab8-106f9818cc95")
+			(uuid "cb6fde75-3519-4f57-bc9d-5ee89ddbde3d")
 			(effects
 				(font
 					(size 1 1)
@@ -18502,7 +17099,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "2a3ed8e4-ddc7-481c-a240-bb1d8517963c")
+			(uuid "3c4aa2b2-1f79-4a9f-9c60-319ec378cb30")
 			(effects
 				(font
 					(size 1 1)
@@ -18514,7 +17111,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a74ce38-14ce-4b8e-b2ce-f12b0e74f3b9")
+			(uuid "647089f6-33eb-4128-9538-c01fb7ed0bc4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18526,7 +17123,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c69715cd-4361-4593-91a5-0a1d9f0603d1")
+			(uuid "3aa473bb-c721-400d-8d1f-dbdc74a6fecd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18842,12 +17439,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "af64282c-9dfe-4eb4-a972-90ca18791435")
-		(at 59.53125 116.68125)
+		(at 64.29375 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K57"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "bd100916-dad9-460f-bd87-33acff5707cb")
+			(uuid "4dd0c9ec-f8bb-41f5-a086-6bc4855fc1c1")
 			(effects
 				(font
 					(size 1 1)
@@ -18859,7 +17456,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "17923ba2-1df2-4ddd-b353-7305fba04fd8")
+			(uuid "3724a667-7d30-4fa5-beb2-5ea60df86b3b")
 			(effects
 				(font
 					(size 1 1)
@@ -18871,7 +17468,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "253fa3b7-aa48-461c-aa14-0964bd96688d")
+			(uuid "fc7f078d-d9d5-49e8-8eeb-0ca34fa6b0db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18883,7 +17480,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c1746ec-b3d0-4574-93c3-ad4d86531e24")
+			(uuid "00555a63-0440-4f34-b354-7335071a5826")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19196,512 +17793,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Supermini:SuperMini_nRF52840_AH_USBup"
-		(layer "F.Cu")
-		(uuid "bc9c9d30-196b-4c49-b7ac-f93850d2ce8b")
-		(at 471.915 191.42)
-		(descr "Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), USB pointing away from PCB")
-		(property "Reference" "U1"
-			(at -9.14 16.24 0)
-			(layer "F.SilkS")
-			(uuid "49562790-1fe1-4315-b949-4710d3a5707e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SuperMini nRF52840"
-			(at 0 0.635 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "a2a41755-49d9-4f31-a82f-49f9f98ed041")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87f6a3b4-47b2-4669-baae-a06cc4a215db")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Symbol for an nicekeyboards nice!nano"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b9548784-928e-4334-a580-1dd1fb53ea66")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/cad6bd38-f3a8-4870-801e-2ec20eec515a")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
-		(fp_line
-			(start -3.55 -14.2)
-			(end -3.55 -17.78)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "4507adc5-e10a-4495-a5fa-d1fc4fb2414e")
-		)
-		(fp_line
-			(start 3.55 -14.2)
-			(end -3.55 -14.2)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "ddea0fd2-f488-4b8a-85e8-d6ec24dd677c")
-		)
-		(fp_line
-			(start 3.55 -14.2)
-			(end 3.55 -17.78)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "65388681-9453-4f1a-ab57-e20ad768dfca")
-		)
-		(fp_rect
-			(start -8.89 -17.78)
-			(end 8.89 15.24)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "fe8622d4-405e-480f-941a-12b72d1bc498")
-		)
-		(fp_rect
-			(start -3.55 -19.3)
-			(end 3.55 -14.2)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "692a59e8-a612-4356-ad85-a109746e8781")
-		)
-		(fp_rect
-			(start 8.89 -17.78)
-			(end -8.89 15.24)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "9bd14aa9-bf54-47cf-ae83-2b12748cc48d")
-		)
-		(fp_text user "topside"
-			(at 0 -14.8 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "515cef61-32d1-4858-8b66-d4e1b634596c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom)
-			)
-		)
-		(fp_text user "1"
-			(at -5.715 -13.2825 0)
-			(layer "F.SilkS")
-			(uuid "93918299-d7e2-4beb-bacd-893ede6e216f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom)
-			)
-		)
-		(fp_text user "USB"
-			(at 0 -16.2 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "d9c7373a-ef96-4424-9034-49293707b2ad")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom)
-			)
-		)
-		(fp_text user "USB"
-			(at 0 -16.2 0)
-			(layer "Cmts.User")
-			(uuid "d83b413d-9d16-42a2-8a29-990e84a03c0e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at -7.62 -13.97)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 10 "/ROW1A")
-			(pinfunction "P0.06")
-			(pintype "bidirectional")
-			(uuid "0b7b03c1-9208-40d5-8a49-37fa7f2edb8b")
-		)
-		(pad "2" thru_hole circle
-			(at -7.62 -11.43)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 11 "/ROW1B")
-			(pinfunction "P0.08")
-			(pintype "bidirectional")
-			(uuid "0b0c6e40-9d83-4c56-80ed-827b592b6aad")
-		)
-		(pad "3" thru_hole roundrect
-			(at -7.62 -8.89)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(roundrect_rratio 0.25)
-			(net 37 "unconnected-(U1-GND-Pad3)")
-			(pinfunction "GND")
-			(pintype "power_out")
-			(uuid "43dfec9e-5ba9-43e3-8521-ee367abf725d")
-		)
-		(pad "4" thru_hole roundrect
-			(at -7.62 -6.35)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(roundrect_rratio 0.25)
-			(net 38 "unconnected-(U1-GND-Pad4)")
-			(pinfunction "GND")
-			(pintype "power_out")
-			(uuid "7c703d78-95b0-4ee3-8aba-4aae67b20353")
-		)
-		(pad "5" thru_hole circle
-			(at -7.62 -3.81)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 36 "unconnected-(U1-P0.17-Pad5)")
-			(pinfunction "P0.17")
-			(pintype "bidirectional")
-			(uuid "bb356054-7b22-44ef-af5d-9997344965d3")
-		)
-		(pad "6" thru_hole circle
-			(at -7.62 -1.27)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 20 "/COL1")
-			(pinfunction "P0.20")
-			(pintype "bidirectional")
-			(uuid "8c805c51-7563-4ab9-83bb-242b0ba2d9a1")
-		)
-		(pad "7" thru_hole circle
-			(at -7.62 1.27)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 21 "/COL2")
-			(pinfunction "P0.22")
-			(pintype "bidirectional")
-			(uuid "f617d959-49c2-4a18-87fe-3e74a0c6a394")
-		)
-		(pad "8" thru_hole circle
-			(at -7.62 3.81)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 26 "/COL7")
-			(pinfunction "P0.24")
-			(pintype "bidirectional")
-			(uuid "932bba18-15b3-4a43-9a95-cba18ca07a51")
-		)
-		(pad "9" thru_hole circle
-			(at -7.62 6.35)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 25 "/COL6")
-			(pinfunction "P1.00")
-			(pintype "bidirectional")
-			(uuid "46352764-3422-47bc-a1f2-ad9fcfc8fcd0")
-		)
-		(pad "10" thru_hole circle
-			(at -7.62 8.89)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 24 "/COL5")
-			(pinfunction "P0.11")
-			(pintype "bidirectional")
-			(uuid "70c148aa-bd79-4eb5-9662-a7f3a92ee32a")
-		)
-		(pad "11" thru_hole circle
-			(at -7.62 11.43)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 23 "/COL4")
-			(pinfunction "P1.04-LF")
-			(pintype "bidirectional")
-			(uuid "fab0cc6e-1a0a-48ac-b954-8aded2ef0d3e")
-		)
-		(pad "12" thru_hole circle
-			(at -7.62 13.97)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 22 "/COL3")
-			(pinfunction "P1.06-LF")
-			(pintype "bidirectional")
-			(uuid "039b12d7-5a0b-4192-a816-fb469b9440ae")
-		)
-		(pad "13" thru_hole circle
-			(at 7.62 -13.97)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 8 "unconnected-(U1-BAT+-Pad13)")
-			(pinfunction "BAT+")
-			(pintype "power_out")
-			(uuid "0ec9f80f-ac36-4b71-a303-a27ba646c3ae")
-		)
-		(pad "14" thru_hole roundrect
-			(at 7.62 -11.43)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(roundrect_rratio 0.25)
-			(net 33 "unconnected-(U1-GND-Pad14)")
-			(pinfunction "GND")
-			(pintype "power_out")
-			(uuid "eb0aaadc-ec9a-4a24-b248-5a73b4e56816")
-		)
-		(pad "15" thru_hole circle
-			(at 7.62 -8.89)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 40 "unconnected-(U1-RST-Pad15)")
-			(pinfunction "RST")
-			(pintype "bidirectional")
-			(uuid "403f466f-ec15-4941-b564-98414e3741f5")
-		)
-		(pad "16" thru_hole circle
-			(at 7.62 -6.35)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 35 "unconnected-(U1-3V3-Pad16)")
-			(pinfunction "3V3")
-			(pintype "power_out")
-			(uuid "d0772f36-d55a-4d86-bbcf-647337a77f9f")
-		)
-		(pad "17" thru_hole circle
-			(at 7.62 -3.81)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 39 "unconnected-(U1-P0.31-LF-Pad17)")
-			(pinfunction "P0.31-LF")
-			(pintype "bidirectional")
-			(uuid "69c75bc7-2294-4ea1-8085-f150f6652d11")
-		)
-		(pad "18" thru_hole circle
-			(at 7.62 -1.27)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 29 "unconnected-(U1-P0.29-LF-Pad18)")
-			(pinfunction "P0.29-LF")
-			(pintype "bidirectional")
-			(uuid "1d6c7f2a-ff9d-4305-959a-4869d88db3b7")
-		)
-		(pad "19" thru_hole circle
-			(at 7.62 1.27)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 34 "unconnected-(U1-P0.02-LF-Pad19)")
-			(pinfunction "P0.02-LF")
-			(pintype "bidirectional")
-			(uuid "0745c5f5-47e1-4083-9212-f6a0c0981ea4")
-		)
-		(pad "20" thru_hole circle
-			(at 7.62 3.81)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 30 "unconnected-(U1-P1.15-LF-Pad20)")
-			(pinfunction "P1.15-LF")
-			(pintype "bidirectional")
-			(uuid "fec8f5a9-a9ff-476c-8a11-44df6a295dba")
-		)
-		(pad "21" thru_hole circle
-			(at 7.62 6.35)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 31 "unconnected-(U1-P1.13-LF-Pad21)")
-			(pinfunction "P1.13-LF")
-			(pintype "bidirectional")
-			(uuid "3ede3b86-72db-47cc-914c-d914d0e75aed")
-		)
-		(pad "22" thru_hole circle
-			(at 7.62 8.89)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 32 "unconnected-(U1-P1.11-LF-Pad22)")
-			(pinfunction "P1.11-LF")
-			(pintype "bidirectional")
-			(uuid "6e2f227f-3070-4c42-b2a3-8def1ec86f2a")
-		)
-		(pad "23" thru_hole circle
-			(at 7.62 11.43)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 28 "unconnected-(U1-P0.10-LF-Pad23)")
-			(pinfunction "P0.10-LF")
-			(pintype "bidirectional")
-			(uuid "4b6c65a2-d8be-4418-8e71-ddf5e26fd89c")
-		)
-		(pad "24" thru_hole circle
-			(at 7.62 13.97)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 27 "unconnected-(U1-P0.09-LF-Pad24)")
-			(pinfunction "P0.09-LF")
-			(pintype "bidirectional")
-			(uuid "75115422-6134-4581-9802-48ef08f20d73")
-		)
-		(pad "28" thru_hole roundrect
-			(at -7.62 -16.51)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(roundrect_rratio 0.25)
-			(net 41 "unconnected-(U1-GND-Pad28)")
-			(pinfunction "GND")
-			(pintype "power_out")
-			(uuid "a7d9b92c-a5a2-4bca-94ca-e9f87510fd83")
-		)
-		(pad "29" thru_hole circle
-			(at 7.62 -16.51)
-			(size 1.8 1.8)
-			(drill 1)
-			(layers "*.Cu" "B.Mask")
-			(remove_unused_layers no)
-			(net 9 "unconnected-(U1-BAT+-Pad29)")
-			(pinfunction "BAT+")
-			(pintype "power_out")
-			(uuid "5e3b1aff-7958-4099-90d5-ef1fa1840504")
-		)
-		(zone
-			(net 0)
-			(net_name "")
-			(layers "F.Cu" "B.Cu")
-			(uuid "f3feeac4-ec31-4f6d-8ae1-2baff5a1d51f")
-			(name "ANT")
-			(hatch edge 0.5)
-			(connect_pads
-				(clearance 0)
-			)
-			(min_thickness 0.25)
-			(filled_areas_thickness no)
-			(keepout
-				(tracks allowed)
-				(vias allowed)
-				(pads allowed)
-				(copperpour not_allowed)
-				(footprints allowed)
-			)
-			(placement
-				(enabled no)
-				(sheetname "")
-			)
-			(fill
-				(thermal_gap 0.5)
-				(thermal_bridge_width 0.5)
-			)
-			(polygon
-				(pts
-					(xy 458.025 201.58) (xy 485.805 201.58) (xy 485.805 211.66) (xy 458.025 211.66)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "bff7219a-4a73-40ef-80bf-2275221f2bfd")
-		(at 92.86875 97.63125)
+		(at 97.63125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K44"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "1d63a9ab-e460-428b-a15a-f918b3fa4e50")
+			(uuid "06364ec4-ae63-4596-9821-34a0b0fe1952")
 			(effects
 				(font
 					(size 1 1)
@@ -19713,7 +17813,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "18f373b7-9556-430b-a100-35bc8d6970f0")
+			(uuid "4cfc18c8-1e50-414f-b4c1-1861c01e2909")
 			(effects
 				(font
 					(size 1 1)
@@ -19725,7 +17825,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b53208c6-c227-45ce-9e43-347a6ee6cc4c")
+			(uuid "6879d8dc-dc06-4ba0-a06c-f4a3de12740c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19737,7 +17837,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd369393-a74a-423c-b647-1dd239d6be1f")
+			(uuid "2a8d6a1f-d08c-406a-9880-a5516a8f2cbb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20050,324 +18150,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "c0b61879-6f41-446d-9aa7-a93c78b89b25")
-		(at 489.225 178.09)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D2"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "eac6dff0-3184-4790-bb0c-886af6f69ff9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "1e7277ce-29a4-4d02-a552-a1c9ef5fe213")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0048dda4-aa6f-4aee-b865-5a48ead87968")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "74c422f5-216e-4fdd-94f5-30a24729d14c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aedcd3c3-ed6b-44b5-af09-d5fd4e2970c3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d4190ddc-92d6-4c23-84ab-dcbfdc7a3fa4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/ad6d02e2-d75d-41f7-abf5-1406476e3836")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0487c8e8-e134-48b5-a26b-3233ef1257ae")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "1d087393-ab3c-4d7e-8301-402e332a7b12")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "25fe50d4-60d0-401d-9e9c-2439763d8f1a")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b961613f-40e1-4af8-917c-e5a07502b8b5")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "875478bd-9206-469c-96b6-ebc9d5e29d51")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "d5876ede-e6e2-4327-9c79-4f1f002c4e15")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "8b8b3866-eba7-46ae-a866-9a120d59f9f5")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b99deb67-d399-421b-a14a-09b71ea8fca7")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "af57fe67-9e18-4539-9914-781ad55e96ce")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ca829986-1d35-4bde-838f-4d977711b3af")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "14dfc3c3-3fd4-4a48-adda-e4535f610ea9")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "750b382e-da11-40f8-99b2-81a573e1bc10")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "5c8c174a-34c5-49b4-baa7-2edf68f3a5af")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d4d8371c-4f96-4ece-9211-de5c1c13d99c")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "44dcb28e-9c20-4f24-8b12-04ae8b94b915")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "736b309e-6c79-41b2-92e7-c8169049b2c0")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "9efd7416-ee31-48eb-8182-23c69cc08f22")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c0dc839a-b839-4316-8ce2-4741d1253a78")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "28c2099d-73ae-4ee2-854f-e6af730a42d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 21 "/COL2")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "f79a7614-c331-4a6b-a287-940bc8602296")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 2 "Net-(D2-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "526d4eda-8da9-435f-ad8c-13104025e431")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c0cc7f00-1cac-4562-a5aa-33f5cce80f8a")
-		(at 140.49375 59.53125)
+		(at 145.25625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K20"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "da94003f-167d-4a15-915d-fdaf23f7432a")
+			(uuid "f6835c6c-d974-4b91-8bbc-0234a0cd4278")
 			(effects
 				(font
 					(size 1 1)
@@ -20379,7 +18170,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "57545ddf-deb5-475a-8f80-0efd33088313")
+			(uuid "0e958be8-f2e0-4160-9ed9-8e75a98d35da")
 			(effects
 				(font
 					(size 1 1)
@@ -20391,7 +18182,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "060e73ab-d953-4baf-912e-4f43a8e0b791")
+			(uuid "36a924c8-25d4-4df8-ad9d-5b4b802fe9b7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20403,7 +18194,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7efceb79-5727-473d-8ae4-4eb0ad281b6e")
+			(uuid "6841eaf2-5ee8-4e4b-b771-a561b2623015")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20719,12 +18510,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c3ed446a-dd31-4407-b8d6-2a9acc982608")
-		(at 245.26875 40.48125)
+		(at 250.03125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K12"
 			(at 0 9.525 0)
 			(layer "B.SilkS")
-			(uuid "aad48d80-4e05-4344-abb6-7660b5cde97c")
+			(uuid "1ae73ac2-23d6-42f6-bcd3-f1230161631f")
 			(effects
 				(font
 					(size 1 1)
@@ -20736,7 +18527,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "8295a236-7d00-4c39-805c-416eda96bb5e")
+			(uuid "237a2ca6-a27d-4ab5-976c-3180a668f404")
 			(effects
 				(font
 					(size 1 1)
@@ -20748,7 +18539,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e30196a-e1c3-41e3-8373-247294cdc347")
+			(uuid "fab34e8f-5f5b-45f7-bfa7-f09ea36ba72a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20760,7 +18551,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "413783db-2919-456e-b5ce-423963eb3a9d")
+			(uuid "c8ca5366-8860-49a7-9db7-70e25094c764")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21076,12 +18867,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "c6f951ba-c3a5-4575-8973-fd8beec2448c")
-		(at 164.30625 78.58125)
+		(at 169.06875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K35"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "85ae692e-a8d9-4fb8-bcb2-f7b39d6493a2")
+			(uuid "9b426be0-2177-40d5-98a7-1c31bc3a2bc7")
 			(effects
 				(font
 					(size 1 1)
@@ -21093,7 +18884,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "736fd5d3-10db-4f4c-9aa5-dd4b445decdd")
+			(uuid "02e21ca1-02e1-46b5-b5bb-c45c75af1192")
 			(effects
 				(font
 					(size 1 1)
@@ -21105,7 +18896,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b72c8cc1-192e-4a02-a54b-e666ca716f48")
+			(uuid "ca396db6-4de5-4791-a435-91aa44eb8937")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21117,7 +18908,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a2ced58-6d94-473f-8a90-b221db3f33cc")
+			(uuid "b92bf1df-ee0a-44a1-ba87-89fb2928e859")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21430,324 +19221,15 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SOD-123"
-		(layer "F.Cu")
-		(uuid "cc0e4b7b-eb5e-4a16-9f34-5eae0e47156f")
-		(at 489.225 174.74)
-		(descr "SOD-123")
-		(tags "SOD-123")
-		(property "Reference" "D1"
-			(at 0 -2 0)
-			(layer "F.SilkS")
-			(uuid "f9c3a0c6-84f9-4701-ae29-36b3522d89e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 0 2.1 0)
-			(layer "F.Fab")
-			(uuid "85a7472b-95eb-44c8-9ba8-8af5ac813b24")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a6525220-5f23-4e26-a2ed-22c6cbb4a58a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e9580d63-5cb5-4af3-9d38-e5b33d29f705")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f0c34eaa-dabb-437c-a480-fd8543703146")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9749ac5a-a34f-4cff-86db-6f76ddc50b7c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "D*SOD?123*")
-		(path "/e9527a30-4873-44f7-9c9f-a22aa8b1c215")
-		(sheetname "/")
-		(sheetfile "kb.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -2.36 -1)
-			(end -2.36 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c6255cc0-2f0d-40aa-856d-950d5813c84c")
-		)
-		(fp_line
-			(start -2.36 -1)
-			(end 1.65 -1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ee608006-411d-4c39-99d1-4ed51a4a444d")
-		)
-		(fp_line
-			(start -2.36 1)
-			(end 1.65 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0fceaa0a-62eb-4bd5-9463-456c4aea9843")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "481391ac-f369-4dc3-9632-793367503a36")
-		)
-		(fp_line
-			(start -2.35 -1.15)
-			(end 2.35 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "afafec29-ed66-43fe-adf7-a76d4437ea67")
-		)
-		(fp_line
-			(start 2.35 -1.15)
-			(end 2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "6e19a375-67fe-4fec-bc48-9d3344e21aeb")
-		)
-		(fp_line
-			(start 2.35 1.15)
-			(end -2.35 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0c3ea443-afb0-4086-8c9f-277293d588bb")
-		)
-		(fp_line
-			(start -1.4 -0.9)
-			(end 1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3b8865af-fa6f-43fa-9136-d87043758ab5")
-		)
-		(fp_line
-			(start -1.4 0.9)
-			(end -1.4 -0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "477a146f-fb04-4b3e-846b-83a0b0885f8e")
-		)
-		(fp_line
-			(start -0.75 0)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1029feed-2792-40af-88b2-bd61b942533e")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 -0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a62337ef-c5d9-4045-be2f-37df7788e1ff")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end -0.35 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7b5794a9-7d72-4bba-b861-f37122d37007")
-		)
-		(fp_line
-			(start -0.35 0)
-			(end 0.25 -0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8e4c3e39-e6c0-4d64-9156-2b92278d930c")
-		)
-		(fp_line
-			(start 0.25 -0.4)
-			(end 0.25 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "5258600d-12b2-4d6a-8c6f-9fb51ae349e5")
-		)
-		(fp_line
-			(start 0.25 0)
-			(end 0.75 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "6c1c0a57-8978-472c-93de-f45ee4990585")
-		)
-		(fp_line
-			(start 0.25 0.4)
-			(end -0.35 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c5d4d35d-c529-44bb-9807-d08498115ebe")
-		)
-		(fp_line
-			(start 1.4 -0.9)
-			(end 1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "cae0fba5-1392-46c0-bf08-63edc45a4205")
-		)
-		(fp_line
-			(start 1.4 0.9)
-			(end -1.4 0.9)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e9559d84-287b-42bd-905e-d9d6be706997")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2 0)
-			(layer "F.Fab")
-			(uuid "6122cf3e-fd9f-473f-9151-edaf56bd38be")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 20 "/COL1")
-			(pinfunction "K")
-			(pintype "passive")
-			(uuid "3f88e35f-c409-4ea9-b73a-a4496d5e9334")
-		)
-		(pad "2" smd roundrect
-			(at 1.65 0)
-			(size 0.9 1.2)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 1 "Net-(D1-A)")
-			(pinfunction "A")
-			(pintype "passive")
-			(uuid "7ddd795b-6de0-477d-8cfd-6ebb2a232ede")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "d15761d0-c1c0-4813-9a7d-1899bcbe49dd")
-		(at 111.91875 97.63125)
+		(at 116.68125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K45"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "b23c9dfe-7c27-49e6-b88d-32327992c98c")
+			(uuid "db5e4ef3-2553-4d75-b4bf-b1e6a69149f4")
 			(effects
 				(font
 					(size 1 1)
@@ -21759,7 +19241,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d6db24dc-2499-4b00-b1d6-bb141af11b4a")
+			(uuid "2aec74cc-6ed5-47af-b785-6d08da1b6cb1")
 			(effects
 				(font
 					(size 1 1)
@@ -21771,7 +19253,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea041ae8-4e69-4f16-aad1-f49d0b5c2b6d")
+			(uuid "6cc3d344-664e-43dc-b52d-d41b587f6a2e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21783,7 +19265,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6de665a-00f5-440d-bfa8-20a706a5853d")
+			(uuid "2846294f-37f1-4c8e-86c4-f37a4e3c1535")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22099,12 +19581,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "d2da8aca-c7d6-44d0-a651-02cb1961c7f3")
-		(at 102.39375 59.53125)
+		(at 107.15625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K18"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "c60562e2-d802-40a4-a288-a5a9988a7859")
+			(uuid "bc4df0f7-b0ba-4ad6-8de1-e0cb2f83ad17")
 			(effects
 				(font
 					(size 1 1)
@@ -22116,7 +19598,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "f2149e2a-1fac-4efd-b40a-9844fabd264a")
+			(uuid "185edf3e-0700-463f-99d1-cc7e7938d003")
 			(effects
 				(font
 					(size 1 1)
@@ -22128,7 +19610,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0aad8bb-7c61-443d-a4d5-b30f97fdef65")
+			(uuid "bd132e90-73f8-4113-ba2c-430864857d1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22140,7 +19622,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0affef38-e2b4-4181-932a-700475d896bf")
+			(uuid "4bbe69f4-8313-439b-bdda-5d02cd9502d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22456,12 +19938,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "db5f69f1-c211-4596-ab11-45414b9246f9")
-		(at 264.31875 116.68125)
+		(at 269.08125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K62"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "2c40ed14-e9c7-4717-be52-6ddb6ef9a0f9")
+			(uuid "debd110c-7481-4f7c-b25d-550249420e26")
 			(effects
 				(font
 					(size 1 1)
@@ -22473,7 +19955,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "b32afbe5-4a5d-4297-abf4-56aeccad1e3c")
+			(uuid "fcd9ff75-b7b6-40ef-9e76-6e0eeb180b51")
 			(effects
 				(font
 					(size 1 1)
@@ -22485,7 +19967,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0b7924f-380f-4a95-ba05-a64059078c5f")
+			(uuid "41054ef5-aae8-4bae-9025-08f13f027106")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22497,7 +19979,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "167bc220-dcbf-4d79-85af-fad8db47b057")
+			(uuid "fdf859d5-ed52-46ec-8829-b19a3e2718f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22810,15 +20292,157 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "Gateron_KS33_Hotswap:Gateron-KS33-2u-Stabilizer-Cutout"
+		(layer "F.Cu")
+		(uuid "dd676122-2707-4074-89bd-444441682b44")
+		(at 50.00625 97.63125)
+		(property "Reference" "REF**"
+			(at 0 -3.5 0)
+			(layer "Dwgs.User")
+			(uuid "d8166f75-b9df-42a4-84f0-756861590f1e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "2U Stabilizer"
+			(at 0 -7.9375 0)
+			(layer "Dwgs.User")
+			(uuid "2a35e484-dc84-4ea2-8a98-adf47c3b241a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d24f9b2c-c6c2-40e3-a379-167d0f9b2d35")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "223d4e0f-d4de-4b80-a4e0-11f633e1ab01")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start -19.05 9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "4c593214-8163-4237-8819-fc06bfc7632e")
+		)
+		(fp_line
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "95ff097b-b99a-4df6-aa9a-4c49c91c936d")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "7282fcda-bb55-480b-a3c3-0cade63e67dd")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "2b3d3ad1-8853-4185-baa5-b4c3391e4cfa")
+		)
+		(fp_rect
+			(start -8.75 6.2)
+			(end -15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "223af705-5f19-4702-a933-2a790f1fca02")
+		)
+		(fp_rect
+			(start 8.75 6.2)
+			(end 15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "3df5fdef-9de9-4c3d-971a-12fcb34a5ab9")
+		)
+		(fp_text user "Stabilizer Wire"
+			(at 0 9.525 0)
+			(unlocked yes)
+			(layer "Eco1.User")
+			(uuid "3a16f452-30e8-49b9-b396-b6382b74b45d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify bottom)
+			)
+		)
+		(embedded_fonts no)
+		(model "./Gateron-KS33-Socket.step"
+			(hide yes)
+			(offset
+				(xyz 5.025 -7.925 -3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
+	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "dfd47d23-bb6e-4b68-9b99-7ce2fd2daaf0")
-		(at 126.20625 78.58125)
+		(at 130.96875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K33"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "97bbdce3-4fc5-414c-8c21-220d76060178")
+			(uuid "faa60f93-5012-46f4-b6ff-a4d89f72aa8f")
 			(effects
 				(font
 					(size 1 1)
@@ -22830,7 +20454,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "d1728956-4fba-4a72-a671-5d3db64d8812")
+			(uuid "81437a3a-6d26-4a43-976d-8398e2d83050")
 			(effects
 				(font
 					(size 1 1)
@@ -22842,7 +20466,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d8e8eb4-32f2-41d9-abc4-579f284f036a")
+			(uuid "7fcdc41f-3b3d-4d0f-acd7-ea7c5d04624c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22854,7 +20478,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6dbdec13-8837-4e04-bec2-eaf5357b294d")
+			(uuid "c332d386-cbba-435e-b552-d13b508d4014")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23170,12 +20794,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "e5c85d9d-af21-48c6-80a1-543f69fbac8c")
-		(at 42.8625 78.58125)
+		(at 47.625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K29"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "11796134-b7f6-4423-9631-a8fc5249f45c")
+			(uuid "5176a7e7-31f9-40cf-848d-f69dd0db27d5")
 			(effects
 				(font
 					(size 1 1)
@@ -23187,7 +20811,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "2fed2d5f-0e08-49bf-a605-0fe373f74b3a")
+			(uuid "ab9fef55-5096-4320-bfa4-1720ce552754")
 			(effects
 				(font
 					(size 1 1)
@@ -23199,7 +20823,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2bc7c801-b17b-4d8b-ba95-649ef05c99d0")
+			(uuid "fa0b5793-0ebb-4be8-94a4-ba3552327649")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23211,7 +20835,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eccf3243-6efb-41e9-aeca-a0aff3eea7da")
+			(uuid "31002fec-4017-4908-97c4-a9baddf365ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23527,12 +21151,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "e8753afe-0b35-4b29-878e-e8c753317c96")
-		(at 264.31875 40.48125)
+		(at 269.08125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K13"
 			(at 0 9.525 0)
 			(layer "B.SilkS")
-			(uuid "f7d1ae46-2865-43d6-a5d3-3af637792e72")
+			(uuid "e41dfe82-567b-4544-977d-4e348e66c70f")
 			(effects
 				(font
 					(size 1 1)
@@ -23544,7 +21168,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "3f1ff375-0684-4b92-943f-304a2d9fefcb")
+			(uuid "ad9950e9-9d9d-4c33-b771-766f3a4bd8ac")
 			(effects
 				(font
 					(size 1 1)
@@ -23556,7 +21180,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9ec629d-8795-48c1-94d1-f20ee78f0bcf")
+			(uuid "8d364296-db07-4cab-a913-73839039f1d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23568,7 +21192,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8b904a4-1f77-4d59-aa17-f7c303c1c500")
+			(uuid "e082cd27-64c8-460a-92aa-939b320b7e5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23881,15 +21505,157 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "Gateron_KS33_Hotswap:Gateron-KS33-2u-Stabilizer-Cutout"
+		(layer "F.Cu")
+		(uuid "e94df494-5713-4e7d-8b71-870c2799d006")
+		(at 295.275 78.58125)
+		(property "Reference" "REF**"
+			(at 0 -3.5 0)
+			(layer "Dwgs.User")
+			(uuid "6c4c1790-673c-460c-bb29-3a3b69fcd8e2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "2U Stabilizer"
+			(at 0 -7.9375 0)
+			(layer "Dwgs.User")
+			(uuid "494d36a5-1c6c-447f-ab8a-c0857037be07")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3aba7477-f887-4748-8a54-fa07062aa896")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33a6ea9c-bba0-46f4-a23a-a536edf372e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start -19.05 9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "fa1f497c-2694-4257-9eca-399d85b83028")
+		)
+		(fp_line
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "8806c59a-afec-4b29-8d12-4f37b2ad9d0a")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "b4123e16-dbc6-41b9-aebf-54a6206505b3")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "1ab84863-bf5d-480e-9813-874458acd7a3")
+		)
+		(fp_rect
+			(start -8.75 6.2)
+			(end -15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "ad07bcb1-7182-499a-a213-618f9aa49e08")
+		)
+		(fp_rect
+			(start 8.75 6.2)
+			(end 15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "66b8e976-4b7e-4b7c-ab96-de83db372479")
+		)
+		(fp_text user "Stabilizer Wire"
+			(at 0 9.525 0)
+			(unlocked yes)
+			(layer "Eco1.User")
+			(uuid "867c8ff1-18ce-4150-9dfe-ac406b2e03e6")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify bottom)
+			)
+		)
+		(embedded_fonts no)
+		(model "./Gateron-KS33-Socket.step"
+			(hide yes)
+			(offset
+				(xyz 5.025 -7.925 -3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
+	)
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "ecf40980-9c7b-4c02-a4a2-fad5b2dfb068")
-		(at 150.01875 97.63125)
+		(at 154.78125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K47"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "5036b106-dc96-47b7-aa97-b4aa1ae99dab")
+			(uuid "7e7d9a57-0a67-41d9-bdb6-c7fc5b3f6f37")
 			(effects
 				(font
 					(size 1 1)
@@ -23901,7 +21667,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "0761cd69-5831-4e2f-818c-1c468cde2e66")
+			(uuid "49deba67-ea18-4d6a-936e-0e288e458b3e")
 			(effects
 				(font
 					(size 1 1)
@@ -23913,7 +21679,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e8d5d01-55b1-442a-9b72-15d9b58e8974")
+			(uuid "e646266e-a311-4cc6-b186-96ff7ce88253")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23925,7 +21691,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7fe4156-a8b1-45f3-bcba-ae05e621cdac")
+			(uuid "60c7e877-72c2-49df-a718-d429c0dabff7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24241,12 +22007,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f08e86e1-b9c8-4644-92a3-562b75f38978")
-		(at 226.21875 116.68125)
+		(at 230.98125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K60"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "17911dbc-fedd-458e-8416-b11897245c8d")
+			(uuid "e0184359-f344-4d6f-ac23-bf3dc119b093")
 			(effects
 				(font
 					(size 1 1)
@@ -24258,7 +22024,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "957baf96-fb75-42d8-844e-c3b3ef0bf5b8")
+			(uuid "64ccbd24-aa40-45bf-a04b-7a45feb91db7")
 			(effects
 				(font
 					(size 1 1)
@@ -24270,7 +22036,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21a00b87-76fd-45a0-9cc1-556fe27a6ffa")
+			(uuid "ae3487b0-dd11-4db8-bb9e-3f5d6d7fde65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24282,7 +22048,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec56242c-7d7b-4018-bc4f-b26d8c4f32ff")
+			(uuid "da3190be-0d51-4992-8d54-dc26d552d64e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24598,12 +22364,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f4197bd7-8566-4013-9a66-a6a9c6e9dfe2")
-		(at 290.5125 78.58125)
+		(at 295.275 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K41"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "ac048d70-fcc8-4f64-ac7e-5b555670c911")
+			(uuid "43b2cbb7-bcf6-4c95-b110-6aa061aeae61")
 			(effects
 				(font
 					(size 1 1)
@@ -24615,7 +22381,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "c4d00755-c431-4b12-ad1d-3a7338f3febd")
+			(uuid "689aad62-78ec-4597-a3e9-49a5a2ef7330")
 			(effects
 				(font
 					(size 1 1)
@@ -24627,7 +22393,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3dcf17dd-5d8c-4945-ae01-b6c02da11871")
+			(uuid "bd15ba61-1c70-47cc-a37f-022d494d3165")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24639,7 +22405,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32e8fc94-e77e-4d92-b9c6-37e5e16b2846")
+			(uuid "f9813130-5158-4dec-947f-5d798b594fd4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24955,12 +22721,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f730eff1-8946-44da-8472-ac7bfe14f076")
-		(at 235.74375 59.53125)
+		(at 240.50625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K25"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "36134af7-e47a-45a7-89aa-1500c80ec811")
+			(uuid "2ccc74f5-5cbf-4e4f-9ad5-fe8a0fea1ad0")
 			(effects
 				(font
 					(size 1 1)
@@ -24972,7 +22738,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "cc684e5d-8fc9-4829-bcc7-17734587a7a5")
+			(uuid "3a824a2c-c0ed-442a-b6bb-dcce9ae83da5")
 			(effects
 				(font
 					(size 1 1)
@@ -24984,7 +22750,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd343107-e02a-44e5-9de0-3fcdf8906f25")
+			(uuid "98130bb5-a578-4d38-b10a-0213189344ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24996,7 +22762,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8aa65a08-ee20-40f9-bf65-8f1a5a546a5c")
+			(uuid "1534c55a-b5dd-44b7-af72-c15b6a304a54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25312,12 +23078,12 @@
 	(footprint "Button_Switch_Keyboard:Gateron_LP_2.0"
 		(layer "F.Cu")
 		(uuid "f746f9ec-094c-4061-9f3f-714a267d670b")
-		(at 169.06875 97.63125)
+		(at 173.83125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "K48"
 			(at 0 9.5 0)
 			(layer "B.SilkS")
-			(uuid "b8c88818-a1c0-499c-ac80-3adf7d51325a")
+			(uuid "70267aae-33a1-41a7-9d60-9280cc4d9f4a")
 			(effects
 				(font
 					(size 1 1)
@@ -25329,7 +23095,7 @@
 		(property "Value" "Gateron_LP_2.0"
 			(at 0 8.5 0)
 			(layer "F.Fab")
-			(uuid "9e72f1d3-db24-425d-a6c3-feecc66da953")
+			(uuid "9e88c68c-9fc3-4663-a49e-50388be3476d")
 			(effects
 				(font
 					(size 1 1)
@@ -25341,7 +23107,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ea43e75-1d4b-44a0-b00a-d51bb0cf8318")
+			(uuid "3d3503b5-d28b-4c85-af6d-7ee53c355a1f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25353,7 +23119,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08e05425-41e6-4bc3-8205-c95e2d63c9df")
+			(uuid "8d161d4a-ed2c-43b9-ad3e-c61070c7cca0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25665,6 +23431,2871 @@
 			(uuid "8100dc64-fe3a-4b4f-93ca-f448d0027b0b")
 		)
 		(embedded_fonts no)
+	)
+	(footprint "Gateron_KS33_Hotswap:Gateron-KS33-2u-Stabilizer-Cutout"
+		(layer "F.Cu")
+		(uuid "fdfaa064-24f9-472a-b210-3c0115bf1036")
+		(at 297.65625 40.48125)
+		(property "Reference" "REF**"
+			(at 0 -3.5 0)
+			(layer "Dwgs.User")
+			(uuid "0a09d582-f237-491b-b337-f2223ac9c47a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "2U Stabilizer"
+			(at 0 -7.9375 0)
+			(layer "Dwgs.User")
+			(uuid "1f13f31a-7781-44b1-a513-674eba8b68be")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31942e93-0167-45e6-8050-f320900bd9d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb8c23bd-8fdd-495a-9c64-f9de50c1bda7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start -19.05 9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "90f4baaf-4532-4f85-8dd9-8e9e9b777bbf")
+		)
+		(fp_line
+			(start 19.05 -9.525)
+			(end -19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "e01a33cd-ec0a-4386-9a6d-381456e27d53")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "e990405f-cc1f-4faf-901f-1b10a8e7b64d")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end 19.05 -9.525)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "4627b5ee-9260-4aca-8122-c4fa01f224f9")
+		)
+		(fp_rect
+			(start -8.75 6.2)
+			(end -15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "08cc657a-f5a6-4328-af7d-8be5266b317f")
+		)
+		(fp_rect
+			(start 8.75 6.2)
+			(end 15.25 -9.8)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "7cc3f2fe-1fef-499e-a516-0e16a71883f1")
+		)
+		(fp_text user "Stabilizer Wire"
+			(at 0 9.525 0)
+			(unlocked yes)
+			(layer "Eco1.User")
+			(uuid "c2fd8262-0910-4e13-a927-d29a8395f2ef")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+				(justify bottom)
+			)
+		)
+		(embedded_fonts no)
+		(model "./Gateron-KS33-Socket.step"
+			(hide yes)
+			(offset
+				(xyz 5.025 -7.925 -3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "13e468c9-b19e-4162-b733-321d160933f3")
+		(at 238.125 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D4"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "dce3c370-22b3-4405-a449-8f783cca73c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "cd9d3d1e-3234-4048-9a1b-30760bca29e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b1b9562-96a4-4b90-b0c6-c09d2f9a171a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b55dc2cc-3e0e-4fc5-b7b6-928b12cd46d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1cc882ed-18d2-4947-b6fa-c36b08bac420")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a90c025-bdd9-4a6a-bb99-b68fd988ae93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/14d18988-a35f-4bc9-8508-d1cce4991511")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "1bc7e5d4-00bc-4ed2-9a75-d575c2fd436b")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ea212460-9a5d-4566-8615-93f2735e1fe4")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "01867bb3-8531-4752-9ac1-7a5fe5048ea8")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "9ead3854-b5f0-4b9a-aed9-7210e2935fba")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "0c68a874-4df0-4522-8107-44eb1aad6e6f")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "35107ab9-f31f-425b-a4b0-4951763e4b5c")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "5654cc7f-22ac-44a7-a4a1-77f9cfab4500")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "2575965a-4973-40db-afe8-39f86919bff7")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "07bd974b-1196-46dd-aaa2-307a50a59f65")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "d48684f8-6102-40db-a83a-a2eb1a32815a")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a86591a8-8ac2-473b-8f20-df0f0cd2bf7b")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "b5a1fd8d-7f1e-42b8-8e69-648b4bfe5a3f")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "60675971-4198-4492-ae64-da70cfd31faa")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "f4a0da2c-fa53-43f1-90ea-fed27ed0cb76")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "532f49e3-70ef-43e4-b66e-cae5267a28a1")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ae094ea2-772b-4ca4-889e-3617431b7341")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "c59c2bf0-d840-4bbb-81ce-b61c0e9f9803")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "49cb615d-480e-4f4b-a46f-42ec34675f9e")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "9351742f-1cfb-4211-9f13-77f5e22f03cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 23 "/COL4")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "2e0d38dc-2f90-4527-9910-72cd32573f82")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 4 "Net-(D4-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "2bc47ef2-d119-473c-9728-6358db3a677e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "508baea9-bbb7-4e32-9f45-cbd8d28981a6")
+		(at 200.025 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D6"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "2b8bd261-d84c-4eb6-ae60-00b8b1aacf2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "7dc80893-a9aa-4ff2-99bc-d770725de9b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89b4cad3-f672-4432-a231-84e8c74c23ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "473047d4-9971-4652-9ac4-b4e4eee876d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bbcdbc93-a8e0-4450-9a9f-a89e23dac938")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dfc8a29c-bcca-4ee2-aad1-081d6123e72f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/a9f993f0-9f77-404a-8505-a69d46fed758")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "adecccc9-8e0d-4f35-9d46-fe818619876c")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "47634d26-7b83-4baf-8903-f4a0d2c3590e")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "94e76ccd-5168-4166-98bc-c8440808724a")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "370e83bb-c671-4ee0-bf73-8770279a1efc")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "c6b0b0d7-0759-47b4-abc1-5728e22e45c4")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "29fbb07a-9a5d-4b93-ba21-c7fcf31dcad6")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "25d3953c-f35a-448b-ae90-8c4640be3778")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "49a179e3-080a-4f5e-8ff9-fd069d02664c")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "b7862b4a-939e-4532-af6a-26724d11f22f")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "07a259f2-2aaf-46f3-8fd8-b08e23bd688d")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "07d902bb-d242-4561-ac02-6be4522360ca")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1adce038-d05e-4ba7-9121-46c26206d675")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "27721325-3cb5-487b-b635-aa8678555bf8")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "36dbd16d-20c4-4af5-97e1-b94bcf4163ce")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "51319dba-2ca8-4b13-8b48-5a1e02dbbebe")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1226c5c3-8e68-4829-8791-b8f7a4a8c9b5")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "69cefc1f-3a0b-455e-9914-ced346a23cc3")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "dc6a380d-b685-4349-b79f-1ce54478831a")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "bad00829-409c-4706-a9c6-ecf2e8933c19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 25 "/COL6")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "56f337ab-234f-40d1-a41c-17b9b1320a50")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 6 "Net-(D6-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "6dbb85f5-880a-400d-9a99-09a11f9b9421")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "5606b120-a372-415f-9714-01c2800e2b9f")
+		(at 180.975 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D7"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "1cc025be-118d-459f-bfab-ef69a0d872ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "5a10c478-8470-4f7b-a0d7-6fda2437887e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "86888531-9d2c-431c-861f-0320e66a9c71")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b841521d-e6a9-4c64-bf87-6dfb75704383")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49315ba5-9658-45d3-b14b-ed614351c582")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "674159b9-c6e2-464e-a708-9653a0bff613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/1b376a20-2fdb-4594-83cb-3a7c9d3d7481")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "37c88ed4-96b2-429f-94d9-f81fc4733826")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "14fefde2-bf44-4f29-97fa-a0bd3722e614")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f769219b-6e73-4b10-9bc5-80798cf9183a")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "9243808d-c4c1-46ca-83d3-ac006e20c6ab")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "b2644469-72c9-4d2d-afd1-e2b50bbf3aed")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "feac30de-25f7-43a6-97af-a14b96275706")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "b84d6707-bd47-4bce-a937-fb215e7b8f60")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "8647c31d-427a-4592-a74f-3f63f50e2cef")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "86df7970-eb0f-424a-bc52-cd6515d7cabb")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "fdd31c46-051f-4567-be57-df863ad443f8")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "9db86888-a013-4b7b-8654-027d0d289f2e")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "4dc661bd-e1c1-4f07-ad34-7f6d6e506647")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "59863ca3-41f0-4147-9512-5173ab97e5e9")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "fcb4bc04-984e-45ea-9290-093abf06b705")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "4eb51574-5832-4b25-89f3-255643ba746b")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "af5ab65f-e099-4889-99ef-3e305cf6be13")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a47b8454-a6b5-4474-b4bf-bdece26cf323")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "bb65903a-2bb4-403e-91cf-3b9f541d6790")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "4c72bf6e-9155-4dd4-9323-b6bd9a0f5212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 26 "/COL7")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "7037281d-34e9-49ee-b592-c38cb9a98590")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 7 "Net-(D7-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "dd68499c-212a-4c4d-9de9-2af80a6fe0d3")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "8ba43218-41dd-49a1-96bf-ef6ed82937e4")
+		(at 219.075 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D5"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "cd3093f7-ebff-498a-b162-3cd0d731611b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "038d3149-4149-454b-92f6-8458470bd96e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1001a0d4-6bd9-4cf9-bba3-33be2bd6a942")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6821f96c-6ac2-448d-9415-ba813e7e5077")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "998c5921-2149-4d5b-97f9-ba747bae9e3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4194afcc-7662-498d-9bcc-706d1c53e384")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/8618c095-d26e-41f6-a778-0cbdde45bc27")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "7929dcd2-c755-4ebb-8168-ad1fac97a276")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "702b8ad5-4407-4811-b0a8-38f310f3a99c")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "f789b788-6499-4d97-8011-ff59cb715451")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "da7dfb49-1812-4e80-8215-afbd9db7ab4b")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "0ebbf23d-ba3d-4bb7-bf23-d079afd46a47")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "cd167dc2-7c1b-47ce-878a-3ca31e60d362")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "6c22e559-3364-4f01-91c1-a2b95200157b")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e2d623aa-0f47-4d27-b647-7dc42a5b1e78")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e83093ab-a61d-42c9-8115-e84d34038ea1")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "55d62946-1fa8-41d6-a841-780b9762d4ac")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "bbcd1f4f-8f64-43dd-a6ad-6ba4ec8d26b6")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e25244c7-6107-4541-8a26-970fc2bbb410")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3bf535ad-67dc-457d-827d-d90c32ee8fdf")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "2abb1e07-f4d3-49be-8dee-97d0b0821d21")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1270929c-4926-4789-98f2-c188e7f04010")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "22b9fa48-1596-4aab-8935-ef900355d7d8")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7b1981cb-8e69-44d3-8ea7-62a411dd95f0")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1e29c7c9-2bcf-422b-a04c-d733a13a3a4f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "4889ffab-3902-43d7-b957-4615e27488ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 24 "/COL5")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "a5b08c41-4c14-452e-85db-30ae5ea5c4f6")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 5 "Net-(D5-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "b652fc38-feed-498f-b976-67d2ba39c754")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "a88edddf-5130-4fac-adf4-8c616e0ce7cc")
+		(at 257.175 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D3"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "3c3aade7-f09f-447a-9091-4603dd368399")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "e6f710aa-a1cf-497c-8053-e6a318c224b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e326a163-e24b-438d-b747-f3cb1233412b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d5d2c3f-e248-4920-83c6-77c953a0ec57")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d80da40-0949-4e83-9130-2fd19720dfde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "47669d0f-a51d-4b18-afff-e69245fcea8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/3465ff3f-e896-4bc2-913b-8d3ea5d98a92")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c2bf8706-7f18-49a4-8680-980a9920787c")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a00f8199-83bc-4211-bc73-066134ce6b38")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0fe8999b-d4e2-4478-9da0-8b476ce02a15")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "fc3c7471-23d0-4c10-9890-1553c2349bbd")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "be2d968d-2516-4807-85b4-a05073f5847a")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "95f1c077-df66-4f44-87e5-e6371a2fb218")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "7afebd74-9359-4d86-8d14-2b4d1d47967f")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "d38b9ea3-ff84-4332-b30f-06f38a9c023c")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "655a68bb-ab83-4daa-b200-a0cb554de7c3")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "90fa2921-04d3-4a70-acae-21675061d4ec")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "92a70be7-2489-4bd0-947f-e5a2bf2a3cad")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "aa7a3434-9b68-440f-807e-eb580787ab61")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "271cb803-ba62-46b7-9a4e-375314513a2f")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "0b351cd4-27a3-45e4-8798-bd2ee2b9f6ae")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "55df7237-99b7-46a7-b418-f5cc3ffa3d87")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "67d66e78-9bcf-4a8b-a996-267eea2cc94b")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7ac1374e-fe5a-424b-ae06-64bad345999a")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "8e71bc15-f654-4655-9857-ca8134f0e0b4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "21c9ca57-8f78-4120-91fa-6a4d4bbbf88f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 22 "/COL3")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "a68681c2-7499-427f-94bc-31dca79aaeba")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 3 "Net-(D3-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "3322787b-385b-4c54-b399-90448b3b09f0")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Supermini:SuperMini_nRF52840_AH_USBup"
+		(layer "B.Cu")
+		(uuid "bc9c9d30-196b-4c49-b7ac-f93850d2ce8b")
+		(at 46.6725 42.38625 -90)
+		(descr "Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), USB pointing away from PCB")
+		(property "Reference" "U1"
+			(at -9.14 -16.24 90)
+			(layer "B.SilkS")
+			(uuid "49562790-1fe1-4315-b949-4710d3a5707e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify left mirror)
+			)
+		)
+		(property "Value" "SuperMini nRF52840"
+			(at 0 -0.635 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(uuid "a2a41755-49d9-4f31-a82f-49f9f98ed041")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "87f6a3b4-47b2-4669-baae-a06cc4a215db")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Symbol for an nicekeyboards nice!nano"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9548784-928e-4334-a580-1dd1fb53ea66")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(path "/cad6bd38-f3a8-4870-801e-2ec20eec515a")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(fp_line
+			(start -3.55 14.2)
+			(end -3.55 17.78)
+			(stroke
+				(width 0.15)
+				(type default)
+			)
+			(layer "B.SilkS")
+			(uuid "4507adc5-e10a-4495-a5fa-d1fc4fb2414e")
+		)
+		(fp_line
+			(start 3.55 14.2)
+			(end 3.55 17.78)
+			(stroke
+				(width 0.15)
+				(type default)
+			)
+			(layer "B.SilkS")
+			(uuid "65388681-9453-4f1a-ab57-e20ad768dfca")
+		)
+		(fp_line
+			(start 3.55 14.2)
+			(end -3.55 14.2)
+			(stroke
+				(width 0.15)
+				(type default)
+			)
+			(layer "B.SilkS")
+			(uuid "ddea0fd2-f488-4b8a-85e8-d6ec24dd677c")
+		)
+		(fp_rect
+			(start -8.89 17.78)
+			(end 8.89 -15.24)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "B.SilkS")
+			(uuid "fe8622d4-405e-480f-941a-12b72d1bc498")
+		)
+		(fp_rect
+			(start -3.55 19.3)
+			(end 3.55 14.2)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "692a59e8-a612-4356-ad85-a109746e8781")
+		)
+		(fp_rect
+			(start 8.89 17.78)
+			(end -8.89 -15.24)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "9bd14aa9-bf54-47cf-ae83-2b12748cc48d")
+		)
+		(fp_text user "topside"
+			(at 0 14.8 90)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "515cef61-32d1-4858-8b66-d4e1b634596c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify bottom mirror)
+			)
+		)
+		(fp_text user "1"
+			(at -5.715 13.2825 90)
+			(layer "B.SilkS")
+			(uuid "93918299-d7e2-4beb-bacd-893ede6e216f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify bottom mirror)
+			)
+		)
+		(fp_text user "USB"
+			(at 0 16.2 90)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "d9c7373a-ef96-4424-9034-49293707b2ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify bottom mirror)
+			)
+		)
+		(fp_text user "USB"
+			(at 0 16.2 90)
+			(layer "Cmts.User")
+			(uuid "d83b413d-9d16-42a2-8a29-990e84a03c0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify bottom)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at -7.62 13.97 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 10 "/ROW1A")
+			(pinfunction "P0.06")
+			(pintype "bidirectional")
+			(uuid "0b7b03c1-9208-40d5-8a49-37fa7f2edb8b")
+		)
+		(pad "2" thru_hole circle
+			(at -7.62 11.43 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 11 "/ROW1B")
+			(pinfunction "P0.08")
+			(pintype "bidirectional")
+			(uuid "0b0c6e40-9d83-4c56-80ed-827b592b6aad")
+		)
+		(pad "3" thru_hole roundrect
+			(at -7.62 8.89 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(roundrect_rratio 0.25)
+			(net 37 "unconnected-(U1-GND-Pad3)")
+			(pinfunction "GND")
+			(pintype "power_out")
+			(uuid "43dfec9e-5ba9-43e3-8521-ee367abf725d")
+		)
+		(pad "4" thru_hole roundrect
+			(at -7.62 6.35 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(roundrect_rratio 0.25)
+			(net 38 "unconnected-(U1-GND-Pad4)")
+			(pinfunction "GND")
+			(pintype "power_out")
+			(uuid "7c703d78-95b0-4ee3-8aba-4aae67b20353")
+		)
+		(pad "5" thru_hole circle
+			(at -7.62 3.81 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 36 "unconnected-(U1-P0.17-Pad5)")
+			(pinfunction "P0.17")
+			(pintype "bidirectional")
+			(uuid "bb356054-7b22-44ef-af5d-9997344965d3")
+		)
+		(pad "6" thru_hole circle
+			(at -7.62 1.27 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 20 "/COL1")
+			(pinfunction "P0.20")
+			(pintype "bidirectional")
+			(uuid "8c805c51-7563-4ab9-83bb-242b0ba2d9a1")
+		)
+		(pad "7" thru_hole circle
+			(at -7.62 -1.27 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 21 "/COL2")
+			(pinfunction "P0.22")
+			(pintype "bidirectional")
+			(uuid "f617d959-49c2-4a18-87fe-3e74a0c6a394")
+		)
+		(pad "8" thru_hole circle
+			(at -7.62 -3.81 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 26 "/COL7")
+			(pinfunction "P0.24")
+			(pintype "bidirectional")
+			(uuid "932bba18-15b3-4a43-9a95-cba18ca07a51")
+		)
+		(pad "9" thru_hole circle
+			(at -7.62 -6.35 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 25 "/COL6")
+			(pinfunction "P1.00")
+			(pintype "bidirectional")
+			(uuid "46352764-3422-47bc-a1f2-ad9fcfc8fcd0")
+		)
+		(pad "10" thru_hole circle
+			(at -7.62 -8.89 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 24 "/COL5")
+			(pinfunction "P0.11")
+			(pintype "bidirectional")
+			(uuid "70c148aa-bd79-4eb5-9662-a7f3a92ee32a")
+		)
+		(pad "11" thru_hole circle
+			(at -7.62 -11.43 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 23 "/COL4")
+			(pinfunction "P1.04-LF")
+			(pintype "bidirectional")
+			(uuid "fab0cc6e-1a0a-48ac-b954-8aded2ef0d3e")
+		)
+		(pad "12" thru_hole circle
+			(at -7.62 -13.97 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 22 "/COL3")
+			(pinfunction "P1.06-LF")
+			(pintype "bidirectional")
+			(uuid "039b12d7-5a0b-4192-a816-fb469b9440ae")
+		)
+		(pad "13" thru_hole circle
+			(at 7.62 13.97 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 8 "unconnected-(U1-BAT+-Pad13)")
+			(pinfunction "BAT+")
+			(pintype "power_out")
+			(uuid "0ec9f80f-ac36-4b71-a303-a27ba646c3ae")
+		)
+		(pad "14" thru_hole roundrect
+			(at 7.62 11.43 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(roundrect_rratio 0.25)
+			(net 33 "unconnected-(U1-GND-Pad14)")
+			(pinfunction "GND")
+			(pintype "power_out")
+			(uuid "eb0aaadc-ec9a-4a24-b248-5a73b4e56816")
+		)
+		(pad "15" thru_hole circle
+			(at 7.62 8.89 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 40 "unconnected-(U1-RST-Pad15)")
+			(pinfunction "RST")
+			(pintype "bidirectional")
+			(uuid "403f466f-ec15-4941-b564-98414e3741f5")
+		)
+		(pad "16" thru_hole circle
+			(at 7.62 6.35 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 35 "unconnected-(U1-3V3-Pad16)")
+			(pinfunction "3V3")
+			(pintype "power_out")
+			(uuid "d0772f36-d55a-4d86-bbcf-647337a77f9f")
+		)
+		(pad "17" thru_hole circle
+			(at 7.62 3.81 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 39 "unconnected-(U1-P0.31-LF-Pad17)")
+			(pinfunction "P0.31-LF")
+			(pintype "bidirectional")
+			(uuid "69c75bc7-2294-4ea1-8085-f150f6652d11")
+		)
+		(pad "18" thru_hole circle
+			(at 7.62 1.27 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 29 "unconnected-(U1-P0.29-LF-Pad18)")
+			(pinfunction "P0.29-LF")
+			(pintype "bidirectional")
+			(uuid "1d6c7f2a-ff9d-4305-959a-4869d88db3b7")
+		)
+		(pad "19" thru_hole circle
+			(at 7.62 -1.27 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 34 "unconnected-(U1-P0.02-LF-Pad19)")
+			(pinfunction "P0.02-LF")
+			(pintype "bidirectional")
+			(uuid "0745c5f5-47e1-4083-9212-f6a0c0981ea4")
+		)
+		(pad "20" thru_hole circle
+			(at 7.62 -3.81 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 30 "unconnected-(U1-P1.15-LF-Pad20)")
+			(pinfunction "P1.15-LF")
+			(pintype "bidirectional")
+			(uuid "fec8f5a9-a9ff-476c-8a11-44df6a295dba")
+		)
+		(pad "21" thru_hole circle
+			(at 7.62 -6.35 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 31 "unconnected-(U1-P1.13-LF-Pad21)")
+			(pinfunction "P1.13-LF")
+			(pintype "bidirectional")
+			(uuid "3ede3b86-72db-47cc-914c-d914d0e75aed")
+		)
+		(pad "22" thru_hole circle
+			(at 7.62 -8.89 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 32 "unconnected-(U1-P1.11-LF-Pad22)")
+			(pinfunction "P1.11-LF")
+			(pintype "bidirectional")
+			(uuid "6e2f227f-3070-4c42-b2a3-8def1ec86f2a")
+		)
+		(pad "23" thru_hole circle
+			(at 7.62 -11.43 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 28 "unconnected-(U1-P0.10-LF-Pad23)")
+			(pinfunction "P0.10-LF")
+			(pintype "bidirectional")
+			(uuid "4b6c65a2-d8be-4418-8e71-ddf5e26fd89c")
+		)
+		(pad "24" thru_hole circle
+			(at 7.62 -13.97 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 27 "unconnected-(U1-P0.09-LF-Pad24)")
+			(pinfunction "P0.09-LF")
+			(pintype "bidirectional")
+			(uuid "75115422-6134-4581-9802-48ef08f20d73")
+		)
+		(pad "28" thru_hole roundrect
+			(at -7.62 16.51 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(roundrect_rratio 0.25)
+			(net 41 "unconnected-(U1-GND-Pad28)")
+			(pinfunction "GND")
+			(pintype "power_out")
+			(uuid "a7d9b92c-a5a2-4bca-94ca-e9f87510fd83")
+		)
+		(pad "29" thru_hole circle
+			(at 7.62 16.51 270)
+			(size 1.8 1.8)
+			(drill 1)
+			(layers "*.Cu" "F.Mask")
+			(remove_unused_layers no)
+			(net 9 "unconnected-(U1-BAT+-Pad29)")
+			(pinfunction "BAT+")
+			(pintype "power_out")
+			(uuid "5e3b1aff-7958-4099-90d5-ef1fa1840504")
+		)
+		(zone
+			(net 0)
+			(net_name "")
+			(layers "F.Cu" "B.Cu")
+			(uuid "f3feeac4-ec31-4f6d-8ae1-2baff5a1d51f")
+			(name "ANT")
+			(hatch edge 0.5)
+			(connect_pads
+				(clearance 0)
+			)
+			(min_thickness 0.25)
+			(filled_areas_thickness no)
+			(keepout
+				(tracks allowed)
+				(vias allowed)
+				(pads allowed)
+				(copperpour not_allowed)
+				(footprints allowed)
+			)
+			(placement
+				(enabled no)
+				(sheetname "")
+			)
+			(fill
+				(thermal_gap 0.5)
+				(thermal_bridge_width 0.5)
+			)
+			(polygon
+				(pts
+					(xy 56.8325 28.49625) (xy 56.8325 56.27625) (xy 66.9125 56.27625) (xy 66.9125 28.49625)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "c0b61879-6f41-446d-9aa7-a93c78b89b25")
+		(at 276.225 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D2"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "eac6dff0-3184-4790-bb0c-886af6f69ff9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "1e7277ce-29a4-4d02-a552-a1c9ef5fe213")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0048dda4-aa6f-4aee-b865-5a48ead87968")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "74c422f5-216e-4fdd-94f5-30a24729d14c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aedcd3c3-ed6b-44b5-af09-d5fd4e2970c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d4190ddc-92d6-4c23-84ab-dcbfdc7a3fa4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/ad6d02e2-d75d-41f7-abf5-1406476e3836")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "1d087393-ab3c-4d7e-8301-402e332a7b12")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0487c8e8-e134-48b5-a26b-3233ef1257ae")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "25fe50d4-60d0-401d-9e9c-2439763d8f1a")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "875478bd-9206-469c-96b6-ebc9d5e29d51")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "b961613f-40e1-4af8-917c-e5a07502b8b5")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "d5876ede-e6e2-4327-9c79-4f1f002c4e15")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "8b8b3866-eba7-46ae-a866-9a120d59f9f5")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "b99deb67-d399-421b-a14a-09b71ea8fca7")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "9efd7416-ee31-48eb-8182-23c69cc08f22")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "d4d8371c-4f96-4ece-9211-de5c1c13d99c")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ca829986-1d35-4bde-838f-4d977711b3af")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "14dfc3c3-3fd4-4a48-adda-e4535f610ea9")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "5c8c174a-34c5-49b4-baa7-2edf68f3a5af")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "750b382e-da11-40f8-99b2-81a573e1bc10")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "44dcb28e-9c20-4f24-8b12-04ae8b94b915")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "736b309e-6c79-41b2-92e7-c8169049b2c0")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "af57fe67-9e18-4539-9914-781ad55e96ce")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "c0dc839a-b839-4316-8ce2-4741d1253a78")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "28c2099d-73ae-4ee2-854f-e6af730a42d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 21 "/COL2")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "f79a7614-c331-4a6b-a287-940bc8602296")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 2 "Net-(D2-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "526d4eda-8da9-435f-ad8c-13104025e431")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Diode_SMD:D_SOD-123"
+		(layer "B.Cu")
+		(uuid "cc0e4b7b-eb5e-4a16-9f34-5eae0e47156f")
+		(at 304.8 40.48125 -90)
+		(descr "SOD-123")
+		(tags "SOD-123")
+		(property "Reference" "D1"
+			(at 0 2 90)
+			(layer "B.SilkS")
+			(uuid "c2f85470-9c38-4902-836c-0ab085da9d60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 0 -2.1 90)
+			(layer "B.Fab")
+			(uuid "6dacfee9-ae80-4d95-897c-785dec15e2b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3b91f857-4c78-4a97-8742-cde5c7382e05")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "87af1153-5b6a-4191-bf1f-221b892011ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0c34eaa-dabb-437c-a480-fd8543703146")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9749ac5a-a34f-4cff-86db-6f76ddc50b7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "D*SOD?123*")
+		(path "/e9527a30-4873-44f7-9c9f-a22aa8b1c215")
+		(sheetname "/")
+		(sheetfile "kb.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -2.36 1)
+			(end 1.65 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ee608006-411d-4c39-99d1-4ed51a4a444d")
+		)
+		(fp_line
+			(start -2.36 1)
+			(end -2.36 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c6255cc0-2f0d-40aa-856d-950d5813c84c")
+		)
+		(fp_line
+			(start -2.36 -1)
+			(end 1.65 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0fceaa0a-62eb-4bd5-9463-456c4aea9843")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end 2.35 1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "afafec29-ed66-43fe-adf7-a76d4437ea67")
+		)
+		(fp_line
+			(start -2.35 1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "481391ac-f369-4dc3-9632-793367503a36")
+		)
+		(fp_line
+			(start 2.35 1.15)
+			(end 2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "6e19a375-67fe-4fec-bc48-9d3344e21aeb")
+		)
+		(fp_line
+			(start 2.35 -1.15)
+			(end -2.35 -1.15)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "0c3ea443-afb0-4086-8c9f-277293d588bb")
+		)
+		(fp_line
+			(start -1.4 0.9)
+			(end 1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3b8865af-fa6f-43fa-9136-d87043758ab5")
+		)
+		(fp_line
+			(start 1.4 0.9)
+			(end 1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "cae0fba5-1392-46c0-bf08-63edc45a4205")
+		)
+		(fp_line
+			(start 0.25 0.4)
+			(end 0.25 -0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "5258600d-12b2-4d6a-8c6f-9fb51ae349e5")
+		)
+		(fp_line
+			(start -0.75 0)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1029feed-2792-40af-88b2-bd61b942533e")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a62337ef-c5d9-4045-be2f-37df7788e1ff")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end 0.25 0.4)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "8e4c3e39-e6c0-4d64-9156-2b92278d930c")
+		)
+		(fp_line
+			(start -0.35 0)
+			(end -0.35 -0.55)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7b5794a9-7d72-4bba-b861-f37122d37007")
+		)
+		(fp_line
+			(start 0.25 0)
+			(end 0.75 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "6c1c0a57-8978-472c-93de-f45ee4990585")
+		)
+		(fp_line
+			(start 0.25 -0.4)
+			(end -0.35 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "c5d4d35d-c529-44bb-9807-d08498115ebe")
+		)
+		(fp_line
+			(start -1.4 -0.9)
+			(end -1.4 0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "477a146f-fb04-4b3e-846b-83a0b0885f8e")
+		)
+		(fp_line
+			(start 1.4 -0.9)
+			(end -1.4 -0.9)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e9559d84-287b-42bd-905e-d9d6be706997")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2 90)
+			(layer "B.Fab")
+			(uuid "6122cf3e-fd9f-473f-9151-edaf56bd38be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 20 "/COL1")
+			(pinfunction "K")
+			(pintype "passive")
+			(uuid "3f88e35f-c409-4ea9-b73a-a4496d5e9334")
+		)
+		(pad "2" smd roundrect
+			(at 1.65 0 270)
+			(size 0.9 1.2)
+			(layers "B.Cu" "B.Mask" "B.Paste")
+			(roundrect_rratio 0.25)
+			(net 1 "Net-(D1-A)")
+			(pinfunction "A")
+			(pintype "passive")
+			(uuid "7ddd795b-6de0-477d-8cfd-6ebb2a232ede")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(gr_rect
+		(start 28.575 28.575)
+		(end 319.0875 128.5875)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "1a19a889-c437-4951-ba2f-ef0753070329")
 	)
 	(group ""
 		(uuid "aa5a94b3-d80e-4c0a-909e-d9670db54138")

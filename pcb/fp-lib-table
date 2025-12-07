@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "Gateron_KS33_Hotswap")(type "KiCad")(uri "${KICAD9_3RD_PARTY}/MX_V2/Gateron_KS33_Hotswap.pretty")(options "")(descr ""))
 )
