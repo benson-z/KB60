@@ -509,7 +509,7 @@
       "plot": "manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "kb.step",
       "svg": "",
       "vrml": ""
     },
