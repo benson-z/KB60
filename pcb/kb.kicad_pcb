@@ -33340,7 +33340,7 @@
 		(uuid "59e8b396-8281-4263-b480-b584339a72ef")
 		(at 46.609 35.687)
 		(property "Reference" "J1"
-			(at -13.295 4.385 180)
+			(at -15.875 -2.159 180)
 			(layer "B.SilkS")
 			(uuid "530a8c1a-811a-4e3c-b7ed-df483bdaae2a")
 			(effects
@@ -37446,7 +37446,7 @@
 		(uuid "8be3b613-cd78-4a03-b78c-43931aad4be1")
 		(at 46.609 50.927)
 		(property "Reference" "J2"
-			(at -13.295 4.385 0)
+			(at -15.875 -2.032 0)
 			(layer "B.SilkS")
 			(uuid "c6da38c2-fd69-49f2-8b74-1c6782c77f98")
 			(effects
@@ -40670,17 +40670,6 @@
 		(sheetname "/")
 		(sheetfile "kb.kicad_sch")
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
-		(fp_rect
-			(start -8.89 17.78)
-			(end 8.89 -15.24)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.SilkS")
-			(uuid "fe8622d4-405e-480f-941a-12b72d1bc498")
-		)
 		(fp_rect
 			(start -3.55 19.3)
 			(end 3.55 14.2)
@@ -46582,6 +46571,19 @@
 					(xy 200.086097 120.630516) (xy 200.011234 120.688023) (xy 199.923634 120.730029) (xy 199.820836 120.756432)
 				)
 			)
+		)
+	)
+	(gr_text "+\n-\n"
+		(at 76.962 54.229 0)
+		(layer "B.SilkS")
+		(uuid "fce897b7-6ff0-441b-aa9b-60f8215236c4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
