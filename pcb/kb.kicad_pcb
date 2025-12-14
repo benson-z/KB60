@@ -209,7 +209,7 @@
 		(at 173.83125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW8"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "38c47146-ea86-4038-a017-f10687996462")
 			(effects
@@ -577,7 +577,7 @@
 		(at 269.08125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW53"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "d3580995-b8cd-43ea-bc24-9700cbb542d3")
 			(effects
@@ -1313,7 +1313,7 @@
 		(at 135.73125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW6"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "dfeadcd5-561e-4f91-ae16-8a6f0f3c259d")
 			(effects
@@ -1681,7 +1681,7 @@
 		(at 250.03125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW52"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "032abf3f-6122-4fca-9d97-315a9677d1c4")
 			(effects
@@ -2046,7 +2046,7 @@
 	(footprint "Gateron_KS33_Hotswap:Gateron-KS33-6.25u-Stabilizer-Cutout"
 		(layer "F.Cu")
 		(uuid "19471a88-c6bb-4655-964d-872d0065e9d6")
-		(at 161.925 116.68125)
+		(at 157.00375 115.214)
 		(property "Reference" "REF**"
 			(at 0 -3.5 0)
 			(layer "Dwgs.User")
@@ -2191,7 +2191,7 @@
 		(at 230.98125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW51"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "430c28dc-9ccc-40d6-9dea-2e5851d68fdb")
 			(effects
@@ -2559,7 +2559,7 @@
 		(at 78.58125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW3"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "224d142d-3d32-46e6-9c40-12b351702d81")
 			(effects
@@ -2927,7 +2927,7 @@
 		(at 111.91875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW32"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "ca515931-d573-43b6-be55-f8aac5613a60")
 			(effects
@@ -3295,7 +3295,7 @@
 		(at 288.13125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW54"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "73b17c3a-00c9-4fad-9ec2-3369ed62056e")
 			(effects
@@ -3663,7 +3663,7 @@
 		(at 288.13125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW63"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "7753dfff-600e-4e5e-9b1a-4a8aa754876d")
 			(effects
@@ -4031,7 +4031,7 @@
 		(at 264.31875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW40"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "bc6fe13e-fd87-4bed-b92f-3f030640ae93")
 			(effects
@@ -4399,7 +4399,7 @@
 		(at 192.88125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW49"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "dd3ada2b-2dd2-47a8-9318-d97271ecd8bb")
 			(effects
@@ -4767,7 +4767,7 @@
 		(at 307.18125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW55"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "27ad46ab-9630-4e8a-80af-dc064fe86055")
 			(effects
@@ -5135,7 +5135,7 @@
 		(at 69.05625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW16"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "978a3315-14da-4bd7-9107-9fbff8082761")
 			(effects
@@ -5503,7 +5503,7 @@
 		(at 297.65625 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW14"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "c51c880e-586c-4164-82c3-821444f02601")
 			(effects
@@ -5871,7 +5871,7 @@
 		(at 307.18125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW64"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "6c5ad077-ece9-44ea-a388-dc700f64110a")
 			(effects
@@ -6239,7 +6239,7 @@
 		(at 230.98125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW11"
-			(at 0 9.525 0)
+			(at -4.92125 8.05775 0)
 			(layer "B.SilkS")
 			(uuid "f059604c-629c-4b03-b1bf-7502681d4237")
 			(effects
@@ -6607,7 +6607,7 @@
 		(at 45.24375 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW15"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "a497b9b9-f231-45a9-bcd3-ca73c6fd2d32")
 			(effects
@@ -6975,7 +6975,7 @@
 		(at 211.93125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW10"
-			(at 0 9.525 0)
+			(at -4.92125 8.05775 0)
 			(layer "B.SilkS")
 			(uuid "5e7a1167-e866-4d19-ba99-a2280dcf0fe8")
 			(effects
@@ -7343,7 +7343,7 @@
 		(at 161.925 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW59"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "9715b46b-3ef9-43b2-9b11-59be789190c9")
 			(effects
@@ -7711,7 +7711,7 @@
 		(at 278.60625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW27"
-			(at -0.98425 9.5 0)
+			(at -5.9055 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "7a7a8f93-356a-48ba-8de2-54a8ead96cae")
 			(effects
@@ -8079,7 +8079,7 @@
 		(at 135.73125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW46"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "03e89ab6-2094-4352-8d91-db1d6c3617d8")
 			(effects
@@ -8447,7 +8447,7 @@
 		(at 116.68125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW5"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "b0e27c0f-2176-451e-8265-c947b0517119")
 			(effects
@@ -8815,7 +8815,7 @@
 		(at 150.01875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW34"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "c9357a76-906b-4b27-bbc1-e8400e5c1d36")
 			(effects
@@ -9183,7 +9183,7 @@
 		(at 92.86875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW31"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "2df09cd2-b1f4-4886-a77f-0d68fff8e30e")
 			(effects
@@ -9551,7 +9551,7 @@
 		(at 97.63125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW4"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "1c436bb5-5c80-490c-9a46-c7e2f0b6c573")
 			(effects
@@ -9919,7 +9919,7 @@
 		(at 207.16875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW37"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "98527b07-ad13-4139-93d6-8fb074a97d20")
 			(effects
@@ -10287,7 +10287,7 @@
 		(at 192.88125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW9"
-			(at 0 9.525 0)
+			(at -4.92125 8.05775 0)
 			(layer "B.SilkS")
 			(uuid "18a18412-6c9c-4336-8e80-807636f6393d")
 			(effects
@@ -10655,7 +10655,7 @@
 		(at 221.45625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW24"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "f29555fb-1109-42ae-98c4-55436fbc7379")
 			(effects
@@ -11023,7 +11023,7 @@
 		(at 259.55625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW26"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "eedf2e25-6847-487b-8dfa-0f614137af56")
 			(effects
@@ -11391,7 +11391,7 @@
 		(at 88.10625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW17"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "855fce57-10d6-48bf-aabb-c0ae47251fc9")
 			(effects
@@ -11759,7 +11759,7 @@
 		(at 188.11875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW36"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "c2014521-3bca-46db-a5c4-7448513cd227")
 			(effects
@@ -12127,7 +12127,7 @@
 		(at 302.41875 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW28"
-			(at -1.04775 9.5 0)
+			(at -5.969 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "53eedcdd-19ed-489d-bac8-86e782775ad3")
 			(effects
@@ -12495,7 +12495,7 @@
 		(at 42.8625 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW56"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "8e02836a-59a9-490f-8e19-3b4d4dc20586")
 			(effects
@@ -12863,7 +12863,7 @@
 		(at 211.93125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW50"
-			(at 3.20675 9.42975 0)
+			(at 5.49275 9.04875 0)
 			(layer "B.SilkS")
 			(uuid "5498e860-659a-43f7-b373-eacab865112a")
 			(effects
@@ -13231,7 +13231,7 @@
 		(at 164.30625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW21"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "4bf1a85c-bda9-4b94-ae4d-0e1e3d964a68")
 			(effects
@@ -13967,7 +13967,7 @@
 		(at 73.81875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW30"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "b2cb6dc2-e5ea-4241-9f62-841dadf42033")
 			(effects
@@ -14335,7 +14335,7 @@
 		(at 154.78125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW7"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "df9f8892-1516-4785-8880-639915aee611")
 			(effects
@@ -14703,7 +14703,7 @@
 		(at 183.35625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW22"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "2c4ff9b4-3d8a-4dd8-a5b8-dcb8ed66e09d")
 			(effects
@@ -15071,7 +15071,7 @@
 		(at 245.26875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW39"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "5fda722c-1baa-4e94-bdb1-f0ac5ec7ed98")
 			(effects
@@ -15439,7 +15439,7 @@
 		(at 250.03125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW61"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "863d8ba7-ab9f-4d58-a699-b35cb365a54a")
 			(effects
@@ -15807,7 +15807,7 @@
 		(at 90.4875 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW58"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "552c0431-08f7-4cdf-83ec-ca6bdfbeaa49")
 			(effects
@@ -16175,7 +16175,7 @@
 		(at 202.40625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW23"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "933ae1ca-872d-40cb-8f6b-e4c8befd1484")
 			(effects
@@ -16543,7 +16543,7 @@
 		(at 126.20625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW19"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "574ea83b-820b-49c1-9a2b-10cb4a14b459")
 			(effects
@@ -16911,7 +16911,7 @@
 		(at 50.00625 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW42"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "91ffcb5a-5021-45d6-b060-ad1d980fbd88")
 			(effects
@@ -17279,7 +17279,7 @@
 		(at 226.21875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW38"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "830012fb-a29b-40d2-8fd3-17cc4a21d142")
 			(effects
@@ -17647,7 +17647,7 @@
 		(at 78.58125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW43"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "ab082190-a876-4564-a03a-bc630aca3713")
 			(effects
@@ -18015,7 +18015,7 @@
 		(at 66.675 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW57"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "558918bc-cd50-42bd-9d17-f17b3edc24f9")
 			(effects
@@ -18383,7 +18383,7 @@
 		(at 97.63125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW44"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "f1071b01-1ffa-480b-baee-9027e6adb2ca")
 			(effects
@@ -18751,7 +18751,7 @@
 		(at 145.25625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW20"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "9cd4d69e-dba2-40ee-93b3-77ceeb6e4e48")
 			(effects
@@ -19119,7 +19119,7 @@
 		(at 250.03125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW12"
-			(at 0 9.525 0)
+			(at -4.92125 8.05775 0)
 			(layer "B.SilkS")
 			(uuid "6bace81b-1bed-4ea5-99ed-13dd2cf5da6e")
 			(effects
@@ -19487,7 +19487,7 @@
 		(at 169.06875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW35"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "c3d5b21a-18ba-417c-bb33-97d68261d25d")
 			(effects
@@ -19855,7 +19855,7 @@
 		(at 116.68125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW45"
-			(at 0 9.5 0)
+			(at -3.90525 9.04875 0)
 			(layer "B.SilkS")
 			(uuid "89d9d3e3-09a8-463c-8a49-6e118aaa35a6")
 			(effects
@@ -20223,7 +20223,7 @@
 		(at 107.15625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW18"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "a6a15b3d-4c34-4441-bebe-7e74ba6427c1")
 			(effects
@@ -20591,7 +20591,7 @@
 		(at 269.08125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW62"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "66a1b2b3-a289-4fb1-8a6c-89290e1b415f")
 			(effects
@@ -20960,7 +20960,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.5 0)
 			(layer "Dwgs.User")
-			(uuid "d8166f75-b9df-42a4-84f0-756861590f1e")
+			(uuid "fce29fba-7d29-461f-84a7-a348b03af517")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -20971,7 +20971,7 @@
 		(property "Value" "2U Stabilizer"
 			(at 0 -7.9375 0)
 			(layer "Dwgs.User")
-			(uuid "2a35e484-dc84-4ea2-8a98-adf47c3b241a")
+			(uuid "d13c0942-07b7-4d64-804a-9d598452f253")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -20984,7 +20984,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d24f9b2c-c6c2-40e3-a379-167d0f9b2d35")
+			(uuid "fdef725a-95c2-434b-b9b0-d3f7d6b38006")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20997,7 +20997,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "223d4e0f-d4de-4b80-a4e0-11f633e1ab01")
+			(uuid "4f639523-1a5d-41fd-8112-590b9f7146ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21101,7 +21101,7 @@
 		(at 130.96875 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW33"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "8d2b88a0-0a90-4ab9-96d4-04e0deb67d58")
 			(effects
@@ -21469,7 +21469,7 @@
 		(at 47.625 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW29"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "86db0443-ca02-468f-a670-deacb6b0e489")
 			(effects
@@ -21837,7 +21837,7 @@
 		(at 269.08125 40.48125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW13"
-			(at 0 9.525 0)
+			(at -4.92125 8.05775 0)
 			(layer "B.SilkS")
 			(uuid "30af7675-e102-45e0-a2c3-e9a00bb86f79")
 			(effects
@@ -22347,7 +22347,7 @@
 		(at 154.78125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW47"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "1fa17a48-ac6f-4325-bd9c-860d29fe650d")
 			(effects
@@ -22715,7 +22715,7 @@
 		(at 230.98125 116.68125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW60"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "62bc5d9b-7ad2-4fb2-bf19-b727c4875357")
 			(effects
@@ -23083,7 +23083,7 @@
 		(at 295.275 78.58125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW41"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "3ecebf3f-fb50-4e19-9bd1-ec79072be3f6")
 			(effects
@@ -23451,7 +23451,7 @@
 		(at 240.50625 59.53125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW25"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "bdcbfeb1-4609-46cb-bdfa-f420fcc688cb")
 			(effects
@@ -23819,7 +23819,7 @@
 		(at 173.83125 97.63125)
 		(descr "Hot Swap Socket for Gateron Low Profile Switch")
 		(property "Reference" "SW48"
-			(at 0 9.5 0)
+			(at -4.92125 8.03275 0)
 			(layer "B.SilkS")
 			(uuid "a1f21a7d-c637-4d41-a7b3-397c240ccccf")
 			(effects
@@ -40104,36 +40104,6 @@
 			(uuid "226ddd3e-131b-4e59-b30c-6d82b85e36dc")
 		)
 		(fp_line
-			(start -3.55 14.2)
-			(end -3.55 17.78)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "B.SilkS")
-			(uuid "17262463-f58e-47e7-97da-319519cb2f60")
-		)
-		(fp_line
-			(start 3.55 14.2)
-			(end 3.55 17.78)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "B.SilkS")
-			(uuid "2b326b7c-6c83-4f88-986a-06192356de39")
-		)
-		(fp_line
-			(start 3.55 14.2)
-			(end -3.55 14.2)
-			(stroke
-				(width 0.15)
-				(type default)
-			)
-			(layer "B.SilkS")
-			(uuid "a6bd3ca4-12c1-488e-87ef-ffd173550962")
-		)
-		(fp_line
 			(start -8.951 12.19)
 			(end -8.951 15.75)
 			(stroke
@@ -41413,44 +41383,6 @@
 			)
 			(layer "B.Fab")
 			(uuid "3b350024-781b-4c4c-a9ce-6e9bc310e054")
-		)
-		(fp_text user "USB"
-			(at 0 16.2 90)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "4f791c63-e8f4-4bfa-b9a9-a829f9c1a1b8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom mirror)
-			)
-		)
-		(fp_text user "1"
-			(at -5.715 13.2825 90)
-			(layer "B.SilkS")
-			(uuid "93918299-d7e2-4beb-bacd-893ede6e216f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom mirror)
-			)
-		)
-		(fp_text user "topside"
-			(at 0 14.8 90)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "a7f2240d-e52c-4700-a46e-b43dc5ac2715")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify bottom mirror)
-			)
 		)
 		(fp_text user "USB"
 			(at 0 16.2 90)
@@ -49072,14 +49004,6 @@
 		(uuid "2f0c1d6e-2c9f-4c9c-bbfe-19dad0757459")
 	)
 	(segment
-		(start 165.608 105.664)
-		(end 41.91 105.664)
-		(width 0.254)
-		(layer "F.Cu")
-		(net 14)
-		(uuid "309988dc-ab0b-4cab-b440-bbf6821b7ff2")
-	)
-	(segment
 		(start 47.1269 52.255)
 		(end 48.075 52.255)
 		(width 0.2)
@@ -49088,12 +49012,52 @@
 		(uuid "49e6a204-71cc-4064-b10b-4c304f1b5076")
 	)
 	(segment
+		(start 165.608 105.664)
+		(end 111.633 105.664)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "57e91fc5-bc01-44f5-a31d-7b2a3d6038a5")
+	)
+	(segment
+		(start 102.616 105.664)
+		(end 41.91 105.664)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "57f3b7c6-8bbd-4cb2-924d-815885cb2ab2")
+	)
+	(segment
+		(start 110.49 104.521)
+		(end 108.458 104.521)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "8b4604a5-d862-457a-9a00-ee2aeab2ea44")
+	)
+	(segment
+		(start 103.759 104.521)
+		(end 102.616 105.664)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "a0118d3d-2271-4e5e-9b0b-7191d74a2c26")
+	)
+	(segment
 		(start 48.075 52.255)
 		(end 49.276 51.054)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "a58d0573-0ebc-4a1f-a00c-768ee4424e84")
+	)
+	(segment
+		(start 111.633 105.664)
+		(end 110.49 104.521)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "baaac4a6-0f8c-4829-aba4-b5872a1c2200")
 	)
 	(segment
 		(start 35.739058 105.664)
@@ -49111,8 +49075,16 @@
 		(net 14)
 		(uuid "dd243e6e-8d3c-44b5-bca1-d7d9f2f79514")
 	)
+	(segment
+		(start 108.458 104.521)
+		(end 103.759 104.521)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "f7dada5f-a065-4e8c-b145-ed837f76bcd6")
+	)
 	(via
-		(at 108.458 105.664)
+		(at 108.458 104.521)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -49191,12 +49163,12 @@
 		(uuid "1b758d31-340f-4389-81d7-6c5bce0e7458")
 	)
 	(segment
-		(start 108.458 105.664)
-		(end 108.40625 105.61225)
-		(width 0.254)
+		(start 108.40625 104.46925)
+		(end 108.40625 102.33125)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "1e87fb82-6ecc-4f4e-a9ab-294a40cb6abe")
+		(uuid "560b5e6b-4c15-4bab-b186-d11c4aa042d9")
 	)
 	(segment
 		(start 70.358 105.41)
@@ -49239,12 +49211,12 @@
 		(uuid "80826651-8c28-40cc-acfa-c6c3d24eb34b")
 	)
 	(segment
-		(start 108.40625 105.61225)
-		(end 108.40625 102.33125)
-		(width 0.254)
+		(start 108.458 104.521)
+		(end 108.40625 104.46925)
+		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "97e93be8-400d-4305-a075-f97cc475c40f")
+		(uuid "b76ba1cc-30b9-41cf-8f7f-240d8bda155e")
 	)
 	(segment
 		(start 89.35625 105.61225)
@@ -49295,12 +49267,20 @@
 		(uuid "fb362dc8-56d5-470a-aefb-50b1f4533e0d")
 	)
 	(segment
-		(start 203.35075 105.25925)
+		(start 202.71575 105.25925)
 		(end 185.52325 105.25925)
 		(width 0.254)
 		(layer "F.Cu")
 		(net 15)
-		(uuid "0b0c0e56-eab0-4ddd-80b1-3713baf764d0")
+		(uuid "099b53be-b5fb-4068-96b6-96dec5aa983a")
+	)
+	(segment
+		(start 211.391876 105.664)
+		(end 209.994876 104.267)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "10450009-7562-46c1-9d64-67d98bd79644")
 	)
 	(segment
 		(start 184.658 92.456)
@@ -49319,20 +49299,28 @@
 		(uuid "189aef21-3ad7-489e-90ee-cf6cb379c951")
 	)
 	(segment
-		(start 203.708 104.902)
-		(end 203.35075 105.25925)
-		(width 0.254)
-		(layer "F.Cu")
-		(net 15)
-		(uuid "4205cabd-baa2-4bf7-983b-80a01df65a8d")
-	)
-	(segment
 		(start 185.52325 105.25925)
 		(end 184.658 104.394)
 		(width 0.254)
 		(layer "F.Cu")
 		(net 15)
-		(uuid "5daa658e-a133-4f86-9e05-4029aefefb1b")
+		(uuid "33f86311-72dc-47b5-8720-6744afcfd2e7")
+	)
+	(segment
+		(start 203.708 104.267)
+		(end 202.71575 105.25925)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "5acd26d3-6388-4dc8-8e4d-d52575269881")
+	)
+	(segment
+		(start 298.958 105.664)
+		(end 211.391876 105.664)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "65d53b81-9b02-48c1-8729-57c8f98e4e6d")
 	)
 	(segment
 		(start 174.097 81.895)
@@ -49359,28 +49347,20 @@
 		(uuid "b7683e7e-d777-4e87-89b2-14c2dd0b2ca4")
 	)
 	(segment
-		(start 298.958 105.664)
-		(end 204.47 105.664)
-		(width 0.254)
-		(layer "F.Cu")
-		(net 15)
-		(uuid "ca4356ac-9900-4df9-b23c-e10c47682adb")
-	)
-	(segment
-		(start 204.47 105.664)
-		(end 203.708 104.902)
-		(width 0.254)
-		(layer "F.Cu")
-		(net 15)
-		(uuid "de6437f2-8f8d-44a0-a442-c11f1551e7d4")
-	)
-	(segment
 		(start 61.194 52.812)
 		(end 59.436 51.054)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 15)
 		(uuid "e9ddfc8f-9363-484e-b5ef-828035f4e867")
+	)
+	(segment
+		(start 209.994876 104.267)
+		(end 203.708 104.267)
+		(width 0.254)
+		(layer "F.Cu")
+		(net 15)
+		(uuid "f4342b4b-dcc5-4f35-aeec-4dc921433d85")
 	)
 	(via
 		(at 241.808 105.664)
@@ -49410,7 +49390,7 @@
 		(uuid "660c51ec-fba9-45fb-a7db-f89321ea9db8")
 	)
 	(via
-		(at 203.708 104.902)
+		(at 203.708 104.267)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -49526,14 +49506,6 @@
 		(uuid "9c5f42cc-7320-4926-bc6e-fb63947e9360")
 	)
 	(segment
-		(start 203.708 104.902)
-		(end 203.65625 104.85025)
-		(width 0.254)
-		(layer "B.Cu")
-		(net 15)
-		(uuid "a493b467-e9a6-4a83-bdf2-3f02d73eff88")
-	)
-	(segment
 		(start 260.858 105.664)
 		(end 260.80625 105.61225)
 		(width 0.254)
@@ -49550,20 +49522,28 @@
 		(uuid "b2502548-3764-4607-b7e7-43c8c060be72")
 	)
 	(segment
-		(start 203.65625 104.85025)
-		(end 203.65625 102.33125)
-		(width 0.254)
-		(layer "B.Cu")
-		(net 15)
-		(uuid "c0f723ae-91f2-4e72-ab5c-ffffbccaf50c")
-	)
-	(segment
 		(start 260.80625 105.61225)
 		(end 260.80625 102.33125)
 		(width 0.254)
 		(layer "B.Cu")
 		(net 15)
 		(uuid "d809ee88-ecd6-4723-b151-9757774ce260")
+	)
+	(segment
+		(start 203.708 102.383)
+		(end 203.65625 102.33125)
+		(width 0.254)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "e6a5cb75-5a12-4e64-b2cd-6a6163763533")
+	)
+	(segment
+		(start 203.708 104.267)
+		(end 203.708 102.383)
+		(width 0.254)
+		(layer "B.Cu")
+		(net 15)
+		(uuid "f67a2061-2e11-4dde-8376-844b44af09a0")
 	)
 	(segment
 		(start 58.42 124.714)
