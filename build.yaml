@@ -8,4 +8,5 @@
 include:
   - board: nice_nano
     shield: kb60
-
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
