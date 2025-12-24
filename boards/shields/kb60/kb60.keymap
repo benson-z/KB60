@@ -21,9 +21,10 @@
                 // Row 3
                 &kp LSHFT       &kp Z           &kp X           &kp C           &kp V           &kp B           &kp N           &kp M           &kp COMMA       &kp DOT         &kp FSLH        &kp RSHFT       &kp UP          &studio_unlock
                 // Row 4
-                &kp LCTRL       &kp LGUI        &kp LALT        &kp SPACE       &kp RALT        &mo 1          &kp LEFT        &kp DOWN        &kp RIGHT
+                &kp LCTRL       &kp LGUI        &kp LALT        &kp SPACE       &kp RALT        &kp RCTRL       &kp LEFT        &kp DOWN        &kp RIGHT
             >;
         };
+
         fn_layer {
             status = "reserved";
         };
@@ -35,6 +36,5 @@
         extra2 {
             status = "reserved";
         };
-    }
     };
 };
