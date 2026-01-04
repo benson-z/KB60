@@ -9,6 +9,7 @@
 / {
     chosen {
         zmk,physical-layout = &default_layout;
+        zmk,battery = &vbatt;
     };
 
     kscan: kscan {
@@ -62,5 +63,9 @@
             RC(6, 0) RC(6, 1) RC(6, 2) RC(6, 3) RC(6, 4) RC(6, 5) RC(6, 6) RC(7, 6) RC(7, 5) RC(7, 4) RC(7, 3) RC(7, 2) RC(7, 1) RC(7, 0) 
             RC(8, 0) RC(8, 1) RC(8, 2)                   RC(8, 5)                            RC(9, 4) RC(9, 3) RC(9, 2) RC(9, 1) RC(9, 0) 
         >;
+    };
+
+    vbatt: vbatt {
+        compatible = "zmk,battery-nrf-vddh";
     };
 };
