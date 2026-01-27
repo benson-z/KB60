@@ -2,6 +2,8 @@
 
 60% low-profile keyboard
 
+![](img/keyboard.jpeg)
+
 ## Features
 
 - 2-layer PCB
@@ -27,4 +29,3 @@
 | M20-8771346                                                                                                                                            | 2   |
 | S2B-PH-SM4-TB                                                                                                                                          | 1   |
 | Case (STEP in Releases tab)                                                                                                                            | 1   |
-
